@@ -18,3 +18,20 @@ Sileodepiction: http://repo.kenhtao.net/sileo-depiction/adgpro
 Depiction: https://repo.kenhtao.net/view/669
 Icon: file:///Applications/Cydia.app/Sections/hackud.png
 
+Package: dlgamingvn.blogspot.com
+Architecture: iphoneos-arm
+Version: 1.44.1
+Section: Tweaks
+Maintainer: DLGamingVN
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debs/Hack_Lien_Quan_1.44.1_By_DL.deb
+Size: 107012
+MD5sum: 90ac1f9ebeb9ba38afe628769e7caa8a
+SHA1: 12ca07f2bce6d0e7cd32adfec364d62471f65802
+SHA256: bb5c22ce08521ea761833673757b3e6d22d6f898a18888ba8eb4ead24915a1da
+SHA512: aa82f281eabeacc0e3f491d3a29da196252198dfba7b24e0185e58be96f987146ae46564a5a266cc63aeb12965661b46c601252a38abc76b7b7bbb969f9829e3
+Description: Menu by DLGamingVN! Xem Thêm Các Mod Hack Miễn Phí Cho IOS Tại Website https://dlgamingvn.blogspot.com/
+Name: Hack Liên Quân Mobile 1.44.1 BY DLGamingVN
+Author: DLGamingVN
+
