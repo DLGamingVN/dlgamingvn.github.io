@@ -1,0 +1,11 @@
+Origin: DLGamingVN Repo
+Label: DLGamingVN
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Cydia Repo by GitPush <dlgamingvn>
+MD5Sum:
+ 3dfb5e5d2985eb4d424dd498027adba3 747 Packages
+ 70e9d9848e288f5f8f4e2a90a1d79c66 550 Packages.bz2

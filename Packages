@@ -1,0 +1,20 @@
+Package: net.kenhtao.adgpro
+Architecture: iphoneos-arm
+Version: 0.0.1-2
+Section: Hack Apps
+Maintainer: Kênh Táo
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/AdGuard Pro Hack.deb
+Size: 5138
+MD5sum: 83930fba2e05b06142490376e4386937
+SHA1: 1a66967753f94388fa515091d9fca3b04bde0179
+SHA256: 598dcb161352cc26453c47c7b68513c234616727e06f2c36199ad259297c1f71
+SHA512: b7e8b17f0759ba327ea18b3dec16cd319487b6e1b28d6fe1ea528788e81ec3612bb2b2b20bfa0e4cea8042d990fb988b1707e84116f3f6ae516478a92d7c81e0
+Description: Hack cho AdGuard Pro
+Name: AdGuard Pro Hack
+Author: md.furman
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/adgpro
+Depiction: https://repo.kenhtao.net/view/669
+Icon: file:///Applications/Cydia.app/Sections/hackud.png
+
