@@ -41,16 +41,16 @@ Section: Hacks
 Maintainer: DLGamingVN
 Installed-Size: 664
 Depends: mobilesubstrate
-Filename: ./debs/com.dl.ffchams_69_iphoneos-arm.deb
-Size: 394918
-MD5sum: 2e682b16de49277e4a9e9b61d4de8f4d
-SHA1: 19415fdb90f37a406a7ea8b04e725d5e8ae81a72
-SHA256: c62643ba2198a126164fdfd00b391143e381200e301dd089844bd7c077e24def
-SHA512: 066a4f757c915f2be2bf23d11fd34c4dc76aa5cba1c3b6cd6eb0354643e889adda4b14d6de58e47f07a4a707f34ec7e849ed98464b93d034d76ef83c0f3f44f0
-Homepage:
+Filename: ./debs/com.dl.ffchams_69_iphoneos-arm (1).deb
+Size: 394936
+MD5sum: 5f92175147768a5e78095651f81a5a75
+SHA1: b9320a8d4b2c72b7ab6c7a00d0a84c4162dc811c
+SHA256: fada06caa44ec7285b822764626ee941ec5555a9c8eadad9fdd93a1688cd71f9
+SHA512: eb9a76018d46c2ffca5ca65efe10e6f4664b2187dfa82d0c3b3961dd25cfbfac7ce177a01e4d48dd943c7e4fd1af849728602bef29c1fb04f22f04485d08aba8
 Description:  Mod Menu for by 0x000!
 Name: Hack Free Fire Chams All Version
 Author: 000
+Depiction: https://dlgamingvn.blogspot.com/
 
 Package: com.dl.igoi
 Architecture: iphoneos-arm
@@ -85,22 +85,6 @@ SHA512: e3615e43025337468b430181a84fddcd0113f6c35a6e3a50ca3a916164d89267c0cec826
 Description: Bật lại chức năng mật mã trên thiết bị iOS 14+ A11.
 Name: Lockdown Beta
 Author: _kritanta <kritantadevelopment@gmail.com>
-
-Package: com.dlhack.lienquan
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Hacks
-Maintainer: DLGamingVN
-Depends: mobilesubstrate
-Filename: ./debs/com.dlhack.lienquan_1.0_iphoneos-arm.deb
-Size: 932070
-MD5sum: 5a51e2bf9ac4e3f49fca272c25480df6
-SHA1: 422f9ebba0662160c2482e3e5c1264c22f340be4
-SHA256: 1894ff07af80f2b568075d4fa17f660900e91a8ba18f3ae4220eba95445ac2a9
-SHA512: 4a7a376da60346448580de5b6f41bf7154b0dedfa08b9a09c8477b2bf90661807d0c0fa9162b9886e2d7ca60e0952cfbda9c5683c60084ca5ad5ed7edf36c38d
-Name: Hack Cam Xa Liên Quân All Version
-Author: DLGamingVN
-Icon: file:///Applications/Cydia.app/Sections/Security.png
 
 Package: com.thearmking.akiap
 Architecture: iphoneos-arm
@@ -145,14 +129,15 @@ Maintainer: DLGamingVN
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debs/dlgamingvn.blogspot.comlq_1.44.1_iphoneos-arm.deb
-Size: 182484
-MD5sum: 1bb655361e789a639a436fa0939e89e8
-SHA1: 5f1d259832348ca7ec2dc97a23a4169287f79a34
-SHA256: a962cc7f714f4072a07117675ad419ad7f179992c070a29d7bad2b6e0917cacc
-SHA512: 08c851bb46362b2147497c2d7230ffcfa7de84ffe9f86ff8b5fc86a8c8e0d1952ec2365cb2a96b6f37154ba559713262e44fb50802a6470646287f40523ffc20
+Size: 182490
+MD5sum: b7377fb9b1c5c9200b2b5d45f3c7ada0
+SHA1: 83452fadce7fc8649bdde6abb888e56075048cb0
+SHA256: b471537c9e1e99bb78324525134532c2f299ab60e562b5d536522a17e8306fd3
+SHA512: 88379865c4114801b3fcd29e37b2ce4f698da34712ae1f2a2928cc66b2cff31f36f30ee8590d327a27862e7294f6f932644a51f0ccbad8e5649a4478479b4728
 Description: Menu by DLGamingVN! Xem Thêm Các Mod Hack Miễn Phí Cho IOS Tại Website https://dlgamingvn.blogspot.com/
 Name: Hack Liên Quân Mobile 1.44.1 BY DLGamingVN
 Author: DLGamingVN
+Depiction: https://dlgamingvn.blogspot.com/
 
 Package: net.dl.appsyncunified
 Architecture: iphoneos-arm
@@ -175,24 +160,6 @@ Name: AppSync Unified
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Sileodepiction: https://dlgamingvn.github.io/
 Depiction: https://dlgamingvn.blogspot.com/
-
-Package: net.dl.reprovision
-Architecture: iphoneos-arm
-Version: 0.8.3
-Priority: optional
-Section: Utilities
-Maintainer: DLGamingVN
-Depends: firmware (>= 9.0)
-Filename: ./debs/net.dl.reprovision_0.8.3_iphoneos-arm.deb
-Size: 16788314
-MD5sum: 428efab3e52d606199bd8f8eab43be17
-SHA1: dbbcec142d0b8a10ceebe4b4d35726aaf4eabd50
-SHA256: f9b6b02f7909f6e8e4a39ac0d594d97932bbfba6199de5a0d43851e83f4af6a3
-SHA512: e13c69e30ad4b2b75f875b30ca0f7a7ce307eac8ced613b7a6c79fb5dde4386b231ba32df40e963132ad5a86779d7f1d1bfe288fb80e3a27cc6b7538915e8f68
-Description: Gia hạn chứng chỉ của ứng dụng trên thiết bị của bạn.
-Name: ReProvision Reborn
-Author: Soh Satoh, Matt Clarke
-Sileodepiction: https://dlgamingvn.blogspot.com/
 
 Package: ws.dl.newterm2
 Architecture: iphoneos-arm
