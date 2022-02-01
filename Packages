@@ -36,18 +36,17 @@ Sponsor: https://youtube.com/c/DLGamingVN
 
 Package: com.dl.ffchams
 Architecture: iphoneos-arm
-Version: 69
+Version: 1.0
 Section: Hacks
 Maintainer: DLGamingVN
 Installed-Size: 664
 Depends: mobilesubstrate
-Filename: ./debs/com.dl.ffchams_69_iphoneos-arm (1).deb
-Size: 394936
-MD5sum: 5f92175147768a5e78095651f81a5a75
-SHA1: b9320a8d4b2c72b7ab6c7a00d0a84c4162dc811c
-SHA256: fada06caa44ec7285b822764626ee941ec5555a9c8eadad9fdd93a1688cd71f9
-SHA512: eb9a76018d46c2ffca5ca65efe10e6f4664b2187dfa82d0c3b3961dd25cfbfac7ce177a01e4d48dd943c7e4fd1af849728602bef29c1fb04f22f04485d08aba8
-Description:  Mod Menu for by 0x000!
+Filename: ./debs/com.dl.ffchams_1.0_iphoneos-arm.deb
+Size: 394908
+MD5sum: aff1fece796fb443703bcc6571b93317
+SHA1: b9737a0a61feb681234e4ad502a5ab83ed86f17b
+SHA256: 5794ee57fa60858c5aa41bef87699817f0e3a34fd34a4850f36fe14940f1c035
+SHA512: 514c834d49c3d29d53698e57fc987806f4b2ffe50e27f1c9c8f847579aca13b5d3cfbaecf8b476ec6732b7a9ad20d229903eabc2d34cabb2589ef8f741ac8646
 Name: Hack Free Fire Chams All Version
 Author: 000
 Depiction: https://dlgamingvn.blogspot.com/
