@@ -103,6 +103,25 @@ Name: AK iAP
 Author: TheArmKing
 Icon: file:///Library/PreferenceBundles/akiaprefs.bundle/icon@2x.png
 
+Package: com.thearmking.freefire
+Architecture: iphoneos-arm
+Version: 1.69.1
+Section: Tweaks
+Maintainer: TheArmKing
+Installed-Size: 616
+Depends: mobilesubstrate
+Filename: ./debs/com.thearmking.freefire_1.69.1_iphoneos-arm.deb
+Size: 278328
+MD5sum: 10e4084c1fee175e31792bd6fbbaf665
+SHA1: 97af9110a2b486d21cf8249d2ea0d40afbe20f85
+SHA256: e8f75cb1bf602bc9809544df0ab44541edbcf3d7efb3ae13a5d8846fad9219e2
+SHA512: 3100e2ac411e6878584af89879c814a6d65d5678a53d0c239efcbd6923b1d4f0f4a45e2e435f52f26bed043fec27df484f99ce9c17a6c4c53e051fe924f9795a
+Homepage: https://platinmods.com
+Description: [PMT] Garena Free Fire - Illuminate 1.69.1 - MOD by TheArmKing @Platinmods.com
+Name: [PMT]Garena Free Fire - Illuminate - JB MOD
+Author: TheArmKing
+Depiction: https://dlgamingvn.blogspot.com/2022/01/hack-garena-free-fire-169x-ob32-menu.html?m=1
+
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
