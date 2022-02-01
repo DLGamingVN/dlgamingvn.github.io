@@ -1,17 +1,111 @@
-Package: dlgamingvn.blogspot.com
+Package: com.dl.dlgmemorinjected
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: DLGamingVN
+Installed-Size: 716
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.dl.dlgmemorinjected_3.0_iphoneos-arm.deb
+Size: 264302
+MD5sum: cb56fd61b39940be09d99a6ffd86f2ca
+SHA1: 55597956422185e2530b3a509a8d47e25ad12d75
+SHA256: 12b3bd882475d46f86e71f7e2812396b7f0d377931bb987db76af744c6872784
+SHA512: f3bc00c6855ccb05df4f743f2d8cbd9d591e98b0888ebc44a0e5f184d85099d60cf83ca73182ec64090a4221fa267e27aeaf6ea814f7764d6954169a6665c84e
+Description: Cho Phép Bạn Chỉnh Sửa Lại Game Bằng Cách Nhập Code Giúp Bạn Hack Mọi Loại Game Trên Thiết Bị IOS
+Name: DLGMemor Injected
+Author: AnonymousxiosdeV
+Sponsor: https://youtube.com/c/DLGamingVN
+
+Package: com.dl.igoi
+Architecture: iphoneos-arm
+Version: 1.03
+Section: Tweaks
+Maintainer: TheArmKing
+Installed-Size: 836
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.dl.igoi_1.03_iphoneos-arm.deb
+Size: 338438
+MD5sum: 8ad1fc1db2be2cf77e7bd4d441327408
+SHA1: 7caa2b9147bd93bea4d3c8e3df7ddf4c918a18be
+SHA256: 7df6a3ad15ae3c4e8f036dfd12760d2885ea96300b33cdf2b7c63006f3a50693
+SHA512: 53bd4ea07c3b11feb94c8c295a192b99259a0c62954b21c78312406c424d985c7509bfe99f2349a7a54d86f6fec00344cfafaeb35ef733d4e5349df4eb2dc61e
+Description: Một Tweak giúp bạn đưa offset hack vô Menu Platinmods và kiểm tra chức năng mod đó một cách dễ dàng!
+Name: In-Game Offset Injector
+Author: TheArmKing
+Icon: file:///Library/PreferenceBundles/igoiPrefs.bundle/icon@2x.png
+
+Package: com.thearmking.akiap
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: TheArmKing
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/com.thearmking.akiap_1.0_iphoneos-arm.deb
+Size: 29330
+MD5sum: 707462c05d1720afbc10cc8819824bf2
+SHA1: 7c39fa4bb0a5da8db3ef5523c4020ee26072ef7d
+SHA256: 623230916d0585afb4fc5cb8618029af1320a9bd67c1a00159d1d26e3beb739b
+SHA512: c576797fffe71b840ee68d42f22ff9f9fb98d140a3111686481b215a2da223337e68949e6539d6a95f10761a964d7bd33adc4f7580c1f67a73fa32cfd6125953
+Description: Bỏ qua thanh toán trong các ứng dụng ở appstore
+Name: AK iAP
+Author: TheArmKing
+Icon: file:///Library/PreferenceBundles/akiaprefs.bundle/icon@2x.png
+
+Package: cydia.com.ipc.crackerxi
+Architecture: iphoneos-arm
+Version: 1.1.16
+Section: Tweaks
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/cydia.com.ipc.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 9960920
+MD5sum: 35125eb67d26e1d081981eeae88fa66d
+SHA1: 3d5230dd12e975a85b50eee7a581b46ce8e96e86
+SHA256: a89489f483cfa3a8b8feb4b3f2b56ec4ce4118ddf7140790adc57fd301cb095c
+SHA512: 4cec7a7e11d697704c3c55b31702af52326c6ee9ff700506c52cd9209d83e7fb857de9940151e55987383a5ceceff7859bfb156722be8e5a969be168b7f8a226
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+Website: https://ipastore.me
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+
+Package: dlgamingvn.blogspot.comlq
 Architecture: iphoneos-arm
 Version: 1.44.1
-Section: Tweaks
+Section: Hacks
 Maintainer: DLGamingVN
 Installed-Size: 528
 Depends: mobilesubstrate
-Filename: ./debs/Hack_Lien_Quan_1.44.1_By_DL.deb
-Size: 107012
-MD5sum: 90ac1f9ebeb9ba38afe628769e7caa8a
-SHA1: 12ca07f2bce6d0e7cd32adfec364d62471f65802
-SHA256: bb5c22ce08521ea761833673757b3e6d22d6f898a18888ba8eb4ead24915a1da
-SHA512: aa82f281eabeacc0e3f491d3a29da196252198dfba7b24e0185e58be96f987146ae46564a5a266cc63aeb12965661b46c601252a38abc76b7b7bbb969f9829e3
+Filename: ./debs/dlgamingvn.blogspot.comlq_1.44.1_iphoneos-arm.deb
+Size: 182484
+MD5sum: 1bb655361e789a639a436fa0939e89e8
+SHA1: 5f1d259832348ca7ec2dc97a23a4169287f79a34
+SHA256: a962cc7f714f4072a07117675ad419ad7f179992c070a29d7bad2b6e0917cacc
+SHA512: 08c851bb46362b2147497c2d7230ffcfa7de84ffe9f86ff8b5fc86a8c8e0d1952ec2365cb2a96b6f37154ba559713262e44fb50802a6470646287f40523ffc20
 Description: Menu by DLGamingVN! Xem Thêm Các Mod Hack Miễn Phí Cho IOS Tại Website https://dlgamingvn.blogspot.com/
 Name: Hack Liên Quân Mobile 1.44.1 BY DLGamingVN
 Author: DLGamingVN
+
+Package: ws.dl.newterm2
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 6664
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./debs/ws.dl.newterm2_2.5_iphoneos-arm.deb
+Size: 2997388
+MD5sum: 35952d9f732e0acff7d8665f0fb78998
+SHA1: ecf5716deb978dc32b33f0d1916e6c1b112526c2
+SHA256: 498475242b1a9bd46ee928dcfc754dca047146ccc51508d49537a44a9364c2fb
+SHA512: 4ee0ae80e9abc4f422c893c765dd71a8f0def4d2eef2c6fa3cad48949ba1e61439ecd47dc191c8d47edd5e972198c686a8589cde5f68fbbef3cf320dfb8a683c
+Description: A powerful terminal app for iOS
+Tag: compatible_min::ios10.0
+Name: NewTerm 2
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Depiction: https://chariz.com/get/newterm
+Support: https://hashbang.productions/support/
 
