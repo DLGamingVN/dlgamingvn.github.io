@@ -121,6 +121,24 @@ Name: CrackerXI+
 Website: https://ipastore.me
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
+Package: dlgamingvn.blogspot.com
+Architecture: iphoneos-arm
+Version: 1.69
+Section: Hacks
+Maintainer: DLGamingVN
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debs/dlgamingvn.blogspot.com_1.69_iphoneos-arm.deb
+Size: 180080
+MD5sum: 86725d67ea01a5836486a8499f25be50
+SHA1: 143c036840d60d480b8a801df05c5645fab773b6
+SHA256: ecba7101760f8e20f250c3d73e1267948579781e0c67314a3c0be496ed1bb9ef
+SHA512: 176216c015b1d310a5c5d7aa5d85db7620a66d71cd26ed2b10fd596869b8d8dee653d400a4cd6777ac4d6db810346eae09914172c80149e103290bcd00ae5db5
+Description: Menu by DLGamingVN!
+Name: Hack Free Fire 1.69 V1 - DLGamingVN
+Author: DLGamingVN
+Depiction: https://dlgamingvn.blogspot.com/2022/01/hack-garena-free-fire-169x-ob32-ios.html?m=1
+
 Package: dlgamingvn.blogspot.comlq
 Architecture: iphoneos-arm
 Version: 1.44.1
@@ -138,6 +156,23 @@ Description: Menu by DLGamingVN! Xem Thêm Các Mod Hack Miễn Phí Cho IOS T�
 Name: Hack Liên Quân Mobile 1.44.1 BY DLGamingVN
 Author: DLGamingVN
 Depiction: https://dlgamingvn.blogspot.com/
+
+Package: ipalibrary.info.freefire
+Architecture: iphoneos-arm
+Version: 1.69.1
+Section: Hacks
+Maintainer: IPALibrary
+Installed-Size: 1976
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/ipalibrary.info.freefire_1.69.1_iphoneos-arm.deb
+Size: 1231274
+MD5sum: 9421bd80e8eb2eafd33b2a3aaea88ee6
+SHA1: c54ca1052e9f38dcc94494686bcd446bd0139f07
+SHA256: 6aa08ecfe103da7e53b01c8abae24d8b1b28b31879ce074073a18471318c63cc
+SHA512: b1f2260018f187d62c5e94c4bba85292b5c6bdeaff0e79b35ec9d3a41d7a47ea6be1f5a25c3b80f1796465075a9de443e308e20017c725982f5af6d428d58f7c
+Description: An awesome hack!
+Name: Hack Free Fire 1.69.1 Ghost Hack + Leo Tường
+Author: IPALibrary
 
 Package: net.dl.appsyncunified
 Architecture: iphoneos-arm
