@@ -89,16 +89,16 @@ Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Package: com.gamegod.igg
 Architecture: iphoneos-arm
 Version: 0.2.4.1
-Section: Utilities
+Section: Utilities_
 Maintainer: DLGamingVN
 Installed-Size: 184188
 Depends: mobilesubstrate (>= 0.9.5000), FIRMWARE (>= 13) | applist
 Filename: ./debs/com.gamegod.igg_0.2.4.1_iphoneos-arm.deb
-Size: 79518110
-MD5sum: 0b9431d1755ac9fffe0d85f37ab6cf33
-SHA1: 2f7a672adfb5cb2581f6b8de78308281bee527f2
-SHA256: f6cde68df0bc35fdafdea94e0a55078dbd5d808b31700ce48a107532ee89bd18
-SHA512: 55953a99a83a996b9e0ff58e6c7b9fbba92438021d64616372092e1432a6784293be7866820f41660f5a9ca17a05c098d15a2e2839e60b7c0477e3eec2b49bdf
+Size: 79518118
+MD5sum: b816cd0e694cbb23417778563ddf58de
+SHA1: b2c50f97f95edc0dcc89834ce9992be4c754f0d9
+SHA256: 2627e2d4e35a30a968870a999a5308cd08a94e3313e28c2c99e3ead657303069
+SHA512: 158b28f8691fe91a3ba555fb7667463ebb32c5ce3b0565f04a9f312a464fe4dc927bedee04c069cd2ac86f465ad6a1d1aaf0762e020a7c369f6d05f3b3619e89
 Description: Hãy là vị thần của trò chơi của bạn!
 Name: iGameGod
 Author: iGameGod
