@@ -24,15 +24,15 @@ Maintainer: DLGamingVN
 Installed-Size: 716
 Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
 Filename: ./debs/com.dl.dlgmemorinjected_3.0_iphoneos-arm.deb
-Size: 264302
-MD5sum: cb56fd61b39940be09d99a6ffd86f2ca
-SHA1: 55597956422185e2530b3a509a8d47e25ad12d75
-SHA256: 12b3bd882475d46f86e71f7e2812396b7f0d377931bb987db76af744c6872784
-SHA512: f3bc00c6855ccb05df4f743f2d8cbd9d591e98b0888ebc44a0e5f184d85099d60cf83ca73182ec64090a4221fa267e27aeaf6ea814f7764d6954169a6665c84e
+Size: 264320
+MD5sum: c0f6d15cf7935b67c7c608a374243bc4
+SHA1: 1d349785d1cddf4628a48a65813934b22b31e803
+SHA256: f1cd9ded888da92e2f34221541ec6d0b42344008ee1b1cedec8649b173d83c92
+SHA512: acc15a38df0870464d328b412be5661b76e6c8955f479f42755588185e3aa9b47fe76f1d75e6c7ebe9abe794eb0fd113bf335cd1378f705c2768a63346a399aa
 Description: Cho Phép Bạn Chỉnh Sửa Lại Game Bằng Cách Nhập Code Giúp Bạn Hack Mọi Loại Game Trên Thiết Bị IOS
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Name: DLGMemor Injected
 Author: AnonymousxiosdeV
-Sponsor: https://youtube.com/c/DLGamingVN
 
 Package: com.dl.ffchams
 Architecture: iphoneos-arm
@@ -42,14 +42,14 @@ Maintainer: DLGamingVN
 Installed-Size: 664
 Depends: mobilesubstrate
 Filename: ./debs/com.dl.ffchams_1.0_iphoneos-arm.deb
-Size: 394908
-MD5sum: aff1fece796fb443703bcc6571b93317
-SHA1: b9737a0a61feb681234e4ad502a5ab83ed86f17b
-SHA256: 5794ee57fa60858c5aa41bef87699817f0e3a34fd34a4850f36fe14940f1c035
-SHA512: 514c834d49c3d29d53698e57fc987806f4b2ffe50e27f1c9c8f847579aca13b5d3cfbaecf8b476ec6732b7a9ad20d229903eabc2d34cabb2589ef8f741ac8646
+Size: 394926
+MD5sum: 8a55ef66adb63f9893ce87f7dba23235
+SHA1: ef41004e81ad39b94301d006da079347ae20d81c
+SHA256: ca6d95b94efe4fb44db54edb0a05874f364332cf751d22bdde196313c5936390
+SHA512: 4408c450d75b1931c5a91d9a4562a7d0ee4c660ecc58594902c1d1341962c2c9d7bfb82729dedcd53f6475e496b6cbc53a71c275f8e08213547047b3b7f615ee
 Name: Hack Free Fire Chams All Version
 Author: 000
-Depiction: https://dlgamingvn.blogspot.com/
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.dl.igoi
 Architecture: iphoneos-arm
@@ -60,14 +60,14 @@ Installed-Size: 836
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debs/com.dl.igoi_1.03_iphoneos-arm.deb
 Size: 338438
-MD5sum: 8ad1fc1db2be2cf77e7bd4d441327408
-SHA1: 7caa2b9147bd93bea4d3c8e3df7ddf4c918a18be
-SHA256: 7df6a3ad15ae3c4e8f036dfd12760d2885ea96300b33cdf2b7c63006f3a50693
-SHA512: 53bd4ea07c3b11feb94c8c295a192b99259a0c62954b21c78312406c424d985c7509bfe99f2349a7a54d86f6fec00344cfafaeb35ef733d4e5349df4eb2dc61e
+MD5sum: 16360474574865ce93bea4cf661d9ce1
+SHA1: fefd6c03e6e08c450f4b701bb29f7195073b6965
+SHA256: c5fcae1c8ed07d7f76029c4510b9d83a465f64955d615d39339d0a7eecd4bb61
+SHA512: 46af4d2fda95e681578a94a57363c83afe45363c7f7d14d0ae9cfb965e63074bbe37279db8cb211d98b3709f3e58d43a4f320dc084e4cbe379c37a59b148bf86
 Description: Một Tweak giúp bạn đưa offset hack vô Menu Platinmods và kiểm tra chức năng mod đó một cách dễ dàng!
 Name: In-Game Offset Injector
 Author: TheArmKing
-Icon: file:///Library/PreferenceBundles/igoiPrefs.bundle/icon@2x.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.dl.lockdown
 Architecture: iphoneos-arm
@@ -76,14 +76,33 @@ Section: Tweaks
 Maintainer: _kritanta <kritantadevelopment@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.dl.lockdown_1.0.6_iphoneos-arm.deb
-Size: 19538
-MD5sum: 63b1ef12b19a3ce41c24bb4defc07a4b
-SHA1: 1091d0cf4e19d109d512e5d09baf9a49f77a5fe5
-SHA256: 472846c7767de380ce75a533c4ce9828ce11d3496d777c1a772498b7cb795696
-SHA512: e3615e43025337468b430181a84fddcd0113f6c35a6e3a50ca3a916164d89267c0cec8269adfc6e01247b069a6978313d6774625bfda3f8caeb0f48fee4391a6
+Size: 19584
+MD5sum: 7d5d65cdc442678edf898e190528001c
+SHA1: 82682cbf10562a3c04db4bd6d908b8b8e1d3639e
+SHA256: c4171cd0b021f73afac5e5402880bc99747916063818c647b4ceb648a06b991b
+SHA512: 78f78723c4d85b272c5131170ddfe36c0fbaeb65baf501f1bb4178992f9b31aa2300150158da126b16e44ac31b2915bf84f2b28bb40c931dc73ba754c0a4deed
 Description: Bật lại chức năng mật mã trên thiết bị iOS 14+ A11.
 Name: Lockdown Beta
 Author: _kritanta <kritantadevelopment@gmail.com>
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
+Package: com.gamegod.igg
+Architecture: iphoneos-arm
+Version: 0.2.4.1
+Section: Utilities
+Maintainer: DLGamingVN
+Installed-Size: 184188
+Depends: mobilesubstrate (>= 0.9.5000), FIRMWARE (>= 13) | applist
+Filename: ./debs/com.gamegod.igg_0.2.4.1_iphoneos-arm.deb
+Size: 79518110
+MD5sum: 0b9431d1755ac9fffe0d85f37ab6cf33
+SHA1: 2f7a672adfb5cb2581f6b8de78308281bee527f2
+SHA256: f6cde68df0bc35fdafdea94e0a55078dbd5d808b31700ce48a107532ee89bd18
+SHA512: 55953a99a83a996b9e0ff58e6c7b9fbba92438021d64616372092e1432a6784293be7866820f41660f5a9ca17a05c098d15a2e2839e60b7c0477e3eec2b49bdf
+Description: Hãy là vị thần của trò chơi của bạn!
+Name: iGameGod
+Author: iGameGod
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.thearmking.akiap
 Architecture: iphoneos-arm
@@ -93,15 +112,16 @@ Maintainer: TheArmKing
 Installed-Size: 340
 Depends: mobilesubstrate
 Filename: ./debs/com.thearmking.akiap_1.0_iphoneos-arm.deb
-Size: 29330
-MD5sum: 707462c05d1720afbc10cc8819824bf2
-SHA1: 7c39fa4bb0a5da8db3ef5523c4020ee26072ef7d
-SHA256: 623230916d0585afb4fc5cb8618029af1320a9bd67c1a00159d1d26e3beb739b
-SHA512: c576797fffe71b840ee68d42f22ff9f9fb98d140a3111686481b215a2da223337e68949e6539d6a95f10761a964d7bd33adc4f7580c1f67a73fa32cfd6125953
+Size: 29372
+MD5sum: 3df5fe895e9d798b45afcc2a4c8b34e8
+SHA1: 47331722ba128996e4231295a58f7c8e5f0046a4
+SHA256: 2c961ef2678112eaa99acd142fdb5379745be4ff7b019a5984ad0d7dc68670cf
+SHA512: f5aa869298734ad187af74c9565a23c6e80a606a278def21a881b8dd86732bbc2ee9fd91f1d9962798f74383b5d1f40324cb2c2cbe0b1cc485e85a87fc25f1e5
 Description: Bỏ qua thanh toán trong các ứng dụng ở appstore
 Name: AK iAP
 Author: TheArmKing
 Icon: file:///Library/PreferenceBundles/akiaprefs.bundle/icon@2x.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.thearmking.freefire
 Architecture: iphoneos-arm
@@ -165,15 +185,15 @@ Maintainer: DLGamingVN
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debs/dlgamingvn.blogspot.comlq_1.44.1_iphoneos-arm.deb
-Size: 182490
-MD5sum: b7377fb9b1c5c9200b2b5d45f3c7ada0
-SHA1: 83452fadce7fc8649bdde6abb888e56075048cb0
-SHA256: b471537c9e1e99bb78324525134532c2f299ab60e562b5d536522a17e8306fd3
-SHA512: 88379865c4114801b3fcd29e37b2ce4f698da34712ae1f2a2928cc66b2cff31f36f30ee8590d327a27862e7294f6f932644a51f0ccbad8e5649a4478479b4728
+Size: 182506
+MD5sum: da5ce8ffde55f82be8b5fed0dba2433a
+SHA1: d4d61a30f4f72ba6ecba827614db096f7491e3df
+SHA256: 1c34320471dd5864bb76f8307ffd68b179e93715f9368fa26bf54a5ca18d880a
+SHA512: 4969fb55439a83f452563948e8cae88498ef41eaa7000b56bdb88663c2b1132103d129e04b948a052d2f08c049e30eb560f3836d7f1da7ee70c79c5ac8e9af83
 Description: Menu by DLGamingVN! Xem Thêm Các Mod Hack Miễn Phí Cho IOS Tại Website https://dlgamingvn.blogspot.com/
 Name: Hack Liên Quân Mobile 1.44.1 BY DLGamingVN
 Author: DLGamingVN
-Depiction: https://dlgamingvn.blogspot.com/
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: ipalibrary.info.freefire
 Architecture: iphoneos-arm
@@ -183,14 +203,15 @@ Maintainer: IPALibrary
 Installed-Size: 1976
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/ipalibrary.info.freefire_1.69.1_iphoneos-arm.deb
-Size: 1231274
-MD5sum: 9421bd80e8eb2eafd33b2a3aaea88ee6
-SHA1: c54ca1052e9f38dcc94494686bcd446bd0139f07
-SHA256: 6aa08ecfe103da7e53b01c8abae24d8b1b28b31879ce074073a18471318c63cc
-SHA512: b1f2260018f187d62c5e94c4bba85292b5c6bdeaff0e79b35ec9d3a41d7a47ea6be1f5a25c3b80f1796465075a9de443e308e20017c725982f5af6d428d58f7c
+Size: 1231322
+MD5sum: 7988057610a5859803ad3361507b10ae
+SHA1: dcf0c285300d9b72ab7cfaeed73aa306fed8eca4
+SHA256: 726cfa7a213f317cde8cd61ebe2233e73ac5c787ca7467f6ea9560ebb2589240
+SHA512: 523f083663e0efd2250652d81fdf8be63ed054651548b779128a58a3c90c0c9399f297ca2d4e730be3d6000c3cab3afcfeac6daf671058061ae3e735af0696f1
 Description: An awesome hack!
 Name: Hack Free Fire 1.69.1 Ghost Hack + Leo Tường
 Author: IPALibrary
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: net.dl.appsyncunified
 Architecture: iphoneos-arm
@@ -203,16 +224,16 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
 Filename: ./debs/net.dl.appsyncunified_104.0_iphoneos-arm.deb
-Size: 58964
-MD5sum: 9cf906f9e84728805af26416b0467ca0
-SHA1: 968a49ebbd19ec93997c318e407f03445a3bbf3b
-SHA256: 6046332c4cc22fa7521e89f0e2c35db93dbfbca5e6d3eece166df4f3909a46c4
-SHA512: f32e799ab3db4be40b6ba3771a749b9f877fb576a2db4affdaf86a27b255fb45b3d2efd99f1e46b0e6c75e8d9e56ab17df590419d578f7c28f42265c7febea02
+Size: 58982
+MD5sum: 753fb3c42c01c01c2c78d4307444a3fc
+SHA1: 0ea23a47efc803291d905a0cf17ecc92c5a969ac
+SHA256: f12a80c86f163bb88255be9565899caf526023836b4015288e069ba402914638
+SHA512: b834b14a97b5da5d35e9b1043e78120aaf6f104d8ff65363a808669f9d611c1f8bf2db76e40a691b7d1921235862546ffe800d9e4290f0e218206451deafc425
 Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn.
 Name: AppSync Unified
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Sileodepiction: https://dlgamingvn.github.io/
-Depiction: https://dlgamingvn.blogspot.com/
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: ws.dl.newterm2
 Architecture: iphoneos-arm
@@ -224,16 +245,16 @@ Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.c
 Conflicts: ws.hbang.newterm, com.lint.ntarrows
 Replaces: ws.hbang.newterm, com.lint.ntarrows
 Filename: ./debs/ws.dl.newterm2_2.5_iphoneos-arm.deb
-Size: 2997388
-MD5sum: 35952d9f732e0acff7d8665f0fb78998
-SHA1: ecf5716deb978dc32b33f0d1916e6c1b112526c2
-SHA256: 498475242b1a9bd46ee928dcfc754dca047146ccc51508d49537a44a9364c2fb
-SHA512: 4ee0ae80e9abc4f422c893c765dd71a8f0def4d2eef2c6fa3cad48949ba1e61439ecd47dc191c8d47edd5e972198c686a8589cde5f68fbbef3cf320dfb8a683c
+Size: 2997416
+MD5sum: b8aa695c20e3963c24cf613f9efc05bd
+SHA1: e1b2bb2af3e3840890e9ba5865f91d0dee7db04e
+SHA256: 5867dfcad6251384e6449d19f61dc456c449c8e703f883c9fae35ee576906e1b
+SHA512: e58222d505842e68cd6811d53f8954cc425eacd84dcbef6fab3f7fa06b15ad89dfb8b22be626f2e1072f5508f27cbebc5d97e8cdae47f70f6a524fc049dae1e4
 Description: A powerful terminal app for iOS
 Tag: compatible_min::ios10.0
 Name: NewTerm 2
 Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
-Depiction: https://chariz.com/get/newterm
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Support: https://hashbang.productions/support/
 
