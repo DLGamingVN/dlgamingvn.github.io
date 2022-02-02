@@ -86,6 +86,22 @@ Name: Lockdown Beta
 Author: _kritanta <kritantadevelopment@gmail.com>
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dl.lqcamxa
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DLGamingVN
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.lqcamxa_1.0_iphoneos-arm.deb
+Size: 932072
+MD5sum: f5c5b98516b1074a4744bcb2227d466f
+SHA1: 46ce7b5348b29bf0c9625ac5561ae4b8680b925c
+SHA256: f3394cda02551824f06584b4ecca0fa1be56195687e7520a20448519eb9cb888
+SHA512: 5b89d4d2b29fe0448cde0434ea1e3a2141abdd9aa48506f75d37d76b027e8d601c36b565199ef6ca5fb603ce9d9f9d4856988fcbc0e6ddd25ababe710742bc5d
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Name: Hack Cam Xa Liên Quân All Version
+Author: DLGamingVN
+
 Package: com.dlgaming.playtogether
 Architecture: iphoneos-arm
 Version: 1.30.0
