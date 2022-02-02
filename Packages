@@ -86,6 +86,24 @@ Name: Lockdown Beta
 Author: _kritanta <kritantadevelopment@gmail.com>
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dlgaming.playtogether
+Architecture: iphoneos-arm
+Version: 1.30.0
+Section: Hacks
+Maintainer: DLGamingVN
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debs/com.dlgaming.playtogether_1.30.0_iphoneos-arm.deb
+Size: 180250
+MD5sum: 39285c08cb3e278dfe7bc78e3766e8ae
+SHA1: cd25b818dff30bb718b7ca68d2b8bdc0455ee7eb
+SHA256: 400fb874eff40c7eeeab7438542a9af1ea482578603616ce151021a7d222afbb
+SHA512: 555431f1bb2575040d3fc2c82c9c42e5b1b95b59ec2849494028b2a4c9be59c0638d6384dfbc266822bfa66ff27a0289c02765c736796e0e191a27c68421047e
+Description: Play Together Auto Menu by DLGamingVN!
+Name: Play Together Auto Menu DLGamingVN
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Author: DLGamingVN
+
 Package: com.dlgamingvn.cahighfps
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -211,6 +229,23 @@ SHA256: 1c34320471dd5864bb76f8307ffd68b179e93715f9368fa26bf54a5ca18d880a
 SHA512: 4969fb55439a83f452563948e8cae88498ef41eaa7000b56bdb88663c2b1132103d129e04b948a052d2f08c049e30eb560f3836d7f1da7ee70c79c5ac8e9af83
 Description: Menu by DLGamingVN! Xem Thêm Các Mod Hack Miễn Phí Cho IOS Tại Website https://dlgamingvn.blogspot.com/
 Name: Hack Liên Quân Mobile 1.44.1 BY DLGamingVN
+Author: DLGamingVN
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
+Package: dlgamingvn.pubg.com
+Architecture: iphoneos-arm
+Version: 0.18.0
+Maintainer: DLGamingVN
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debs/dlgamingvn.pubg.com_0.18.0_iphoneos-arm.deb
+Size: 182156
+MD5sum: 3b9e159038123520ee8f423c5cdfd00f
+SHA1: b0e01dfabc54b322dde24c9cc5c1ebf5d726ba5a
+SHA256: 582ee87aaea6fe17ee34e79a3bc669f4eb834e78bebf356e125258bff9c68633
+SHA512: 823c034144197aca8dbd4fc9e423f8029f2c1e03eb3a6dd988d3e0717c8a90f7ae07117cf5f09ae7b7f3b8bd2d9e9f01e87359dec79480e41c5a919c0f17a8a3
+Description: Menu by DLGamingVN! Lưu ý có thể bị khóa nick
+Name: HACK PUBG MOBILE VNG 0.18.0 - DLGamingVN
 Author: DLGamingVN
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
