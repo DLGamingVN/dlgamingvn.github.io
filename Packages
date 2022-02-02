@@ -235,15 +235,16 @@ Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Package: dlgamingvn.pubg.com
 Architecture: iphoneos-arm
 Version: 0.18.0
+Section: Hacks
 Maintainer: DLGamingVN
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debs/dlgamingvn.pubg.com_0.18.0_iphoneos-arm.deb
-Size: 182156
-MD5sum: 3b9e159038123520ee8f423c5cdfd00f
-SHA1: b0e01dfabc54b322dde24c9cc5c1ebf5d726ba5a
-SHA256: 582ee87aaea6fe17ee34e79a3bc669f4eb834e78bebf356e125258bff9c68633
-SHA512: 823c034144197aca8dbd4fc9e423f8029f2c1e03eb3a6dd988d3e0717c8a90f7ae07117cf5f09ae7b7f3b8bd2d9e9f01e87359dec79480e41c5a919c0f17a8a3
+Size: 182170
+MD5sum: 9c89c993e793fdc20a77d8d129c881ee
+SHA1: 6143eda31e41361d1bc43430ee4cf73a4860c110
+SHA256: 6083a77b419f0e278b3c0a1dc5007a8fe6a766f65a1648d378a48d72744d5f3c
+SHA512: bedc87849ce933a6cc6f0c2c07994e5e751cac82f885ac950559f9449da4d32d1aefb3b811ce55958d99a2a6f24d28b02c7d48ac5c099b9cf8b36e3d0b72d836
 Description: Menu by DLGamingVN! Lưu ý có thể bị khóa nick
 Name: HACK PUBG MOBILE VNG 0.18.0 - DLGamingVN
 Author: DLGamingVN
