@@ -86,6 +86,25 @@ Name: Lockdown Beta
 Author: _kritanta <kritantadevelopment@gmail.com>
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dlgamingvn.cahighfps
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: DLGamingVN
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
+Conflicts: com.ps.cahighfps
+Filename: ./debs/com.dlgamingvn.cahighfps_1.1.deb
+Size: 14006
+MD5sum: 1780af55c4003bdb719360bba259a4c7
+SHA1: 88bd713aed04be31ba50feb3a08592ba887c8192
+SHA256: 2294013db0b0228a445a6dd33dfa0fe5ef5fbc977472d643a79fe4b13f50e3ee
+SHA512: 971dd249b1c061288fbe002eb408578fd60e145423e6784b0971833d0434a8fae61a343439233d659079effd2826bf877478c1f5166fa59ddfcf5c0c5cb4bca4
+Description: Làm cho ứng dụng sử dụng FPS cao nhất
+Name: CAHighFPS
+Author: PoomSmart
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
 Package: com.gamegod.igg
 Architecture: iphoneos-arm
 Version: 0.2.4.1
