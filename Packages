@@ -16,6 +16,23 @@ Name: iGameGuardian
 Author: Aqua Wu <igameguardian@gmail.com>
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
+Package: com.dl.altstore
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Utilities_
+Maintainer: DLGamingVN
+Depends: firmware (>=8), com.rileytestut.altdaemon
+Filename: ./debs/com.dl.altstore_1.4_iphoneos-arm.deb
+Size: 4578740
+MD5sum: f58639a8522ca3ed9de722a6afa9e15a
+SHA1: 06e3eb1256cb1930198567a7666361950e406ced
+SHA256: a70a1dde4c41252d2bdbd8d106b8246449e92d232f1cb61a9b82f6a061291122
+SHA512: d3ac54472b1535ca7e63b70522b087122a48e7108fa46630b91b1b96c78fccdf1a698b0f5f132aa097112bbd87511ce714dae746d3bac51accd27d0cbeac8eb4
+Description: Đăng ký và gia hạn chứng chỉ cho ứng dụng
+Name: AltStore
+Author: Riley Testut
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
 Package: com.dl.dlgmemorinjected
 Architecture: iphoneos-arm
 Version: 3.0
@@ -33,6 +50,41 @@ Description: Cho Phép Bạn Chỉnh Sửa Lại Game Bằng Cách Nhập Code G
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Name: DLGMemor Injected
 Author: AnonymousxiosdeV
+
+Package: com.dl.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: DLGamingVN
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debs/com.dl.facebooknoads_1.4.1_iphoneos-arm.deb
+Size: 271024
+MD5sum: 9af6cdffff64368690f57a1303b9b7fc
+SHA1: 5656169eae2b28c8f68a08a9b56a787b4e252680
+SHA256: 19835e5d26eb1314c49f689fa0953e01727c5f003bace6606933969848f045e3
+SHA512: c24ecc6c6bbbfb41704ac9933deaf105f1a410e25cec2608f6a669fe4204ac61dee9f50dea542b85f57e176f10d25c99313eb098b2236a070b58d3501d345b89
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ . 
+ Đặc trưng:
+ - Loại bỏ các quảng cáo
+ - Có thể Tải xuống Video (nhấn và giữ để tải xuống)
+ - Có thể tải xuống câu chuyện
+ - Hình ảnh hồ sơ có thể chỉ tôi
+ - Tắt Story Seen (Xem câu chuyện của bạn bè mà không cho họ biết)
+ - Ẩn nhà soạn nhạc trên News Feed
+ - Ẩn các câu chuyện trên News Feed
+ - Hỗ trợ iOS 12-14
+ - Hỗ trợ phiên bản Facebook mới nhất (Nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 307.0)
+ .
+ Tôi làm việc rất chăm chỉ để thực hiện các chỉnh sửa tốt, miễn phí và mã nguồn mở cho mọi người
+ Các bạn muốn ủng hộ thì có thể mua cafe cho mình tại https://www.paypal.me/haoict
+ .
+ Cảm ơn rất nhiều
+Name: Facebook Không QC
+Author: Hao Nguyen
 
 Package: com.dl.ffchams
 Architecture: iphoneos-arm
@@ -69,6 +121,42 @@ Name: In-Game Offset Injector
 Author: TheArmKing
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dl.instanoads
+Architecture: iphoneos-arm
+Version: 2.11.0
+Section: Tweaks
+Maintainer: DLGamingVN
+Installed-Size: 728
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), firmware(>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debs/com.dl.instanoads_2.11.0_iphoneos-arm.deb
+Size: 384728
+MD5sum: c8f96413ae0bb91cf5500e0409d86d2d
+SHA1: 8f12db75907539c62614030657fcda607760335c
+SHA256: c40ec4aba3212279059ce90ced84d2d38f2bf32c33b30fc5c7f922c2c28d783c
+SHA512: 270e90c5032ce6c363cf28fc5c1b1d86dc5eb9c4db05d895b37f007a8a0ee708f6d11a6a2ab7b22d0bec70c0c63d33c30f0214115784f29c544d3524c059b2e0
+Description: Free & Open Source Tweak for Instagram
+ Free & Open Source Tweak for Instagram
+ Change log: https://github.com/haoict/instagram-no-ads/releases
+ .
+ Đặc trưng:
+ - Xóa Quảng cáo (Nguồn cấp dữ liệu mới, Câu chuyện & Câu chuyện)
+ - Có thể lưu phương tiện (Ảnh, Video, IGTV, Câu chuyện, Câu chuyện, nhấn và giữ để hiển thị tùy chọn tải xuống)
+ - Có thể Lưu Hình ảnh Hồ sơ HD (Nhấn và giữ để hiển thị tùy chọn tải xuống)
+ - Hiển thị số lượt thích
+ - Xác định xem người dùng có đang theo dõi bạn không
+ - Vô hiệu hóa DM đã thấy và biên nhận Story đã thấy
+ - Tin nhắn trực tiếp phát lại không giới hạn
+ - Như xác nhận
+ - Thêm khóa ứng dụng (sử dụng faceid / touchhid để mở khóa)
+ - Hỗ trợ iOS 12 - 14 & phiên bản Instagram mới nhất (> = 216.0)
+ .
+ Tôi làm việc rất chăm chỉ để thực hiện các chỉnh sửa tốt, miễn phí và mã nguồn mở cho mọi người
+ Các bạn muốn ủng hộ thì có thể mua cafe cho mình tại https://www.paypal.me/haoict
+ .
+ Cảm ơn rất nhiều
+Name: Instagram Không QC
+Author: Hao Nguyen
+
 Package: com.dl.lockdown
 Architecture: iphoneos-arm
 Version: 1.0.6
@@ -101,6 +189,42 @@ SHA512: 5b89d4d2b29fe0448cde0434ea1e3a2141abdd9aa48506f75d37d76b027e8d601c36b565
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Name: Hack Cam Xa Liên Quân All Version
 Author: DLGamingVN
+
+Package: com.dl.messengernoads
+Architecture: iphoneos-arm
+Version: 3.10.0
+Section: Tweaks
+Maintainer: DLGamingVN
+Installed-Size: 972
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debs/com.dl.messengernoads_3.10.0_iphoneos-arm.deb
+Size: 586452
+MD5sum: ac045f4a1a7233c479f40f3deff79e8f
+SHA1: 0324a94b36515e12e0884f1489f0d7a19970c360
+SHA256: 8e1dcd7e7161e8fe5dc86d6d6ca86c9e958249c7867950f61fe2f154ac366b08
+SHA512: 06a4a4d08e255fd6f88ca79e55494f211126b56d6c3a34113b1104ff62d0ea98722ed8394a9e2c6ea4ab1bd110d498126f819a9efad0930a71cb4be2bf933a2e
+Description: The best tweak for Messenger app.
+ The best tweak for Messenger app.
+ Change log: https://github.com/haoict/messenger-no-ads/releases
+ . 
+ Đặc trưng:
+ - Ẩn quảng cáo trên ứng dụng Messenger
+ - Tắt biên nhận đã đọc
+ - Tắt chỉ báo đánh máy
+ - Vô hiệu hóa Story Seen Receipt
+ - Có thể lưu câu chuyện của bạn bè
+ - Ẩn Thanh tìm kiếm, hàng Câu chuyện, tab Mọi người
+ - Ẩn Liên hệ được Đề xuất trong Tìm kiếm
+ - Kéo dài thời lượng tải lên video câu chuyện (từ mặc định là 20 giây lên 10 phút)
+ - Hỗ trợ iOS 12 - iOS 14
+ - Hỗ trợ phiên bản Messenger mới nhất (Nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 300.0)
+ .
+ Tôi làm việc rất chăm chỉ để thực hiện các chỉnh sửa tốt, miễn phí và mã nguồn mở cho mọi người
+ Các bạn muốn ủng hộ thì có thể mua cafe cho mình tại https://www.paypal.me/haoict
+ .
+ Cảm ơn rất nhiều
+Name: Messenger Không QC
+Author: Hao Nguyen
 
 Package: com.dlgaming.playtogether
 Architecture: iphoneos-arm
@@ -156,6 +280,32 @@ Description: Hãy là vị thần của trò chơi của bạn!
 Name: iGameGod
 Author: iGameGod
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
+Package: com.haoict.camerashuttersounddisabler
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 0
+Depends: mobilesubstrate
+Filename: ./debs/com.haoict.camerashuttersounddisabler_0.1.0_iphoneos-arm.deb
+Size: 1154
+MD5sum: 1187cb442ca3f53595b8f22dc4cbc2b2
+SHA1: 7b74e7d9bde28c7371c9a97adda78ca25c782588
+SHA256: c94104a64a3ef4b6f0a4d3fcadc41b57a410c3e13a9da73cc1b91678dad70fb3
+SHA512: a7a51c60b67d2c799205833885081f38d00a66f0b00bae03988897c34d70439cbc62029ac873178346b95f988476b0a8e8b6794b698c0c89106e4bcc0f612b2c
+Description: Camera Shutter Sound Disabler
+ Camera Shutter Sound Disabler
+ Support iOS 12 - 14
+ Change log:
+ - v0.1.0: Use bash, add disable camera_shutter_burst
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Camera Shutter Sound Disabler
+Author: Hao Nguyen
 
 Package: com.thearmking.akiap
 Architecture: iphoneos-arm
@@ -282,6 +432,26 @@ SHA512: 523f083663e0efd2250652d81fdf8be63ed054651548b779128a58a3c90c0c9399f297ca
 Description: An awesome hack!
 Name: Hack Free Fire 1.69.1 Ghost Hack + Leo Tường
 Author: IPALibrary
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
+Package: jp.dl.reprovision
+Architecture: iphoneos-arm
+Version: 0.8.3
+Priority: optional
+Section: Utilities_
+Maintainer: DLGamingVN
+Depends: firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Filename: ./debs/jp.dl.reprovision_0.8.3_iphoneos-arm.deb
+Size: 16788368
+MD5sum: 3ca52f758b33a33bbcc084f6ad7af543
+SHA1: 53b308079cd4d8d2fa6cd9fd865fcc8f1e4898c0
+SHA256: 42bf340bfedd37b4c9ec43e501dd9dc70df13d7bec27bb3f26aedb59499b9bfe
+SHA512: e6f12da20d3a3d0f48afc3e822fbad2a9155f56af5df5e962c76beec7b0bf64487f635822b538414b0c0abf4aeeeb79d82af5b6ce5e455825c09e3cfaa950bb7
+Description: Đăng ký gia hạn chứng chỉ cho ứng dụng trên thiết bị của bạn
+Name: ReProvision Reborn
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: net.dl.appsyncunified
