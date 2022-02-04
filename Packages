@@ -24,14 +24,16 @@ Maintainer: Little 34306
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debs/com.34306.gi_2.4.0-1_iphoneos-arm.deb
-Size: 188406
-MD5sum: bcb8c3eca680ce18285c0e3eecfd5da6
-SHA1: 4fd3feea15b602dd8500a398b0e3f64a0a56e1cb
-SHA256: 215856040470dc71078e6933eb323d1d649d6da275db65fbeecba8c85aed2a94
-SHA512: 2905aaa867e7c36295e4ab257d1afdb3ed2ded5811d32610bff3d1315af45157bfa7e1abbb57d5cc879e2675d1bac5a9985e42ef2d5f8e14082114c406310941
+Size: 188490
+MD5sum: 01269b833ce9a72fb50792ba79b3bcaa
+SHA1: cda76ecd061cf956cddae3c14ef53a1d92848c12
+SHA256: 39a278f83fc45c7742f7e1105384094b0610506ebab24f63d55f28c4b08ae542
+SHA512: e3a50c2a3613abbc891be4523230b9d6f60164231658a2730a5e599771f82fa205f7435853e368305a6845f2f7ebc95c6eb6a15ddbfa7e94aeaf743e3e9bda04
 Description: MUA NHÉ! IB CHO FB ĐẠT LÊ
 Name: Hack Genshin Impact 2.4.0
 Author: 34306
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.dl.altstore
 Architecture: iphoneos-arm
