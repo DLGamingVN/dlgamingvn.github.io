@@ -1,3 +1,21 @@
+Package: com.dlgamingvn.github.io.icon
+Architecture: iphoneos-arm
+Version: 1.0
+Essential: yes
+Section: System
+Maintainer: DL
+Filename: ./debs/Icon Repo DL.deb
+Size: 420940
+MD5sum: 8c54531639ce7c4ef0ac89af3c80b728
+SHA1: 025f90d9e70c4f3d08233af98581ae432ec4e32b
+SHA256: 661bf62c781bd75585ff5611388ceae1f0b2025696b4fd4f88fd20a145613b1c
+SHA512: 5e3b4e3a02532d6487c4bbb5acd645f9ef9b90794b738e82338c9366a77095ead3d4a9c9e6577b77c99bf07de09d9bc81b29bb3a93a57d9b202a06d437a95aa9
+Description: Biểu tượng Cydia cho kho lưu trữ DL
+Name: DLGamingVN-Icon Repo
+Author: DL
+Icon: file:///Applications/Cydia.app/Sections/dl.png
+Depiction: Biểu tượng Cydia cho kho lưu trữ DL
+
 Package: com-arab-cydia.iGameGuardian
 Architecture: iphoneos-arm
 Version: 8.3-1
@@ -111,12 +129,13 @@ Section: Hacks
 Maintainer: DLGamingVN
 Depends: mobilesubstrate
 Filename: ./debs/com.dl.lqcamxa_1.0_iphoneos-arm.deb
-Size: 932072
-MD5sum: f5c5b98516b1074a4744bcb2227d466f
-SHA1: 46ce7b5348b29bf0c9625ac5561ae4b8680b925c
-SHA256: f3394cda02551824f06584b4ecca0fa1be56195687e7520a20448519eb9cb888
-SHA512: 5b89d4d2b29fe0448cde0434ea1e3a2141abdd9aa48506f75d37d76b027e8d601c36b565199ef6ca5fb603ce9d9f9d4856988fcbc0e6ddd25ababe710742bc5d
+Size: 932112
+MD5sum: c6c3a41334d1e41164ac1865758668f6
+SHA1: 5d823a31fe79a726a7e2a5d7ef16ae5c31a51cb7
+SHA256: d09c0506d55171d29f9f4f5bb593714bb290d6595b0b2aa4ea50df58831994a1
+SHA512: 24ac4b3d314048577411c066e72c603b1b40087ce248fdc93d5f8a26efa532b6474dcd00b0326b8f0ed786ee51d633aa3d98f3fe6fd80cdadfd502d84f59921d
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Name: Hack Cam Xa Liên Quân All Version
 Author: DLGamingVN
 
@@ -128,14 +147,15 @@ Maintainer: DLGamingVN
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debs/com.dlgaming.playtogether_1.30.0_iphoneos-arm.deb
-Size: 180250
-MD5sum: 39285c08cb3e278dfe7bc78e3766e8ae
-SHA1: cd25b818dff30bb718b7ca68d2b8bdc0455ee7eb
-SHA256: 400fb874eff40c7eeeab7438542a9af1ea482578603616ce151021a7d222afbb
-SHA512: 555431f1bb2575040d3fc2c82c9c42e5b1b95b59ec2849494028b2a4c9be59c0638d6384dfbc266822bfa66ff27a0289c02765c736796e0e191a27c68421047e
+Size: 180288
+MD5sum: 3214c28644cfe89a09176744a90d2b41
+SHA1: 5c79e91f0eb30ecb81232f13b4497222eb8bdab1
+SHA256: b2ed5d12bd56c5e6fb1963446dc9dd829cf482e082285ef4363899cbab0cac1b
+SHA512: 1db5b43e8a90d608db834ab094bca93c812c47d7233e6018867960ca3c2d1be42e12f24a6ecf0d4cc641d265ab554baf2be376e6dab35362997573863053f87d
 Description: Play Together Auto Menu by DLGamingVN!
 Name: Play Together Auto Menu DLGamingVN
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Author: DLGamingVN
 
 Package: com.dlgamingvn.cahighfps
@@ -202,15 +222,16 @@ Maintainer: TheArmKing
 Installed-Size: 616
 Depends: mobilesubstrate
 Filename: ./debs/com.thearmking.freefire_1.69.1_iphoneos-arm.deb
-Size: 278328
-MD5sum: da879abe8fbaa7bc1ee697f610cbdd9a
-SHA1: f6ec7941d9d10cd10fa2a1e76c2980e28a3d4075
-SHA256: 8100c5bae26c6fce2f5b84da7d85a3ea939c15de8e16b1f3a4b219195f13cc25
-SHA512: f5a44d846f783b6d2ebcf2e8ad6d5d34ca3f403c0b9fb02f3ccd70d323ccc699e3c16421a946e966077a273f976a1518efc3be15ed0070d171e5b7bc34f75900
+Size: 278368
+MD5sum: 1b4a8b16dd8e27226dd2767ffb457901
+SHA1: 5c4e02b18e718602746be026a9543cc779b95230
+SHA256: 614c6c4a8ac94bcf20ab481d6336d0e469d2d2f04feb97610056a12aca48899c
+SHA512: 0669b5bad4a07114b99316222f5e181e778f3bd473dda2059f855f6084c408578683e7700e4e19a95028a76f72d16c97f36d8cccd1629cbe2a773a5655fe2509
 Homepage: https://platinmods.com
 Description: [PMT] Garena Free Fire - Illuminate 1.69.1 - MOD by TheArmKing @Platinmods.com
 Name: [PMT] Hack Garena Free Fire 1.69.1
 Author: DLGamingVN
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/2022/01/hack-garena-free-fire-169x-ob32-menu.html?m=1
 
 Package: cydia.com.ipc.crackerxi
@@ -238,14 +259,15 @@ Maintainer: DLGamingVN
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debs/dlgamingvn.blogspot.com_1.69_iphoneos-arm.deb
-Size: 180080
-MD5sum: 86725d67ea01a5836486a8499f25be50
-SHA1: 143c036840d60d480b8a801df05c5645fab773b6
-SHA256: ecba7101760f8e20f250c3d73e1267948579781e0c67314a3c0be496ed1bb9ef
-SHA512: 176216c015b1d310a5c5d7aa5d85db7620a66d71cd26ed2b10fd596869b8d8dee653d400a4cd6777ac4d6db810346eae09914172c80149e103290bcd00ae5db5
+Size: 180120
+MD5sum: 80f0463d1d77953d31a12bf6d386546a
+SHA1: 3a4e66d6e89c84a752b831aa61c7ec77b7033ead
+SHA256: 8ace35d784fa878f81401cc23c27fd8908efe2ff082598c9bfd8e577aac9d683
+SHA512: 8603e46d1f502c0c3b8f54959b29fb7c9c732bfeb1f9f0a855959fb0efda0036405bcb3f97d340349785d4bf25b54b9d600b9b63e70246d7f4495ccfc645eb07
 Description: Menu by DLGamingVN!
 Name: Hack Free Fire 1.69 V1 - DLGamingVN
 Author: DLGamingVN
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/2022/01/hack-garena-free-fire-169x-ob32-ios.html?m=1
 
 Package: dlgamingvn.blogspot.comlq
@@ -256,14 +278,15 @@ Maintainer: DLGamingVN
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debs/dlgamingvn.blogspot.comlq_1.44.1_iphoneos-arm.deb
-Size: 182506
-MD5sum: da5ce8ffde55f82be8b5fed0dba2433a
-SHA1: d4d61a30f4f72ba6ecba827614db096f7491e3df
-SHA256: 1c34320471dd5864bb76f8307ffd68b179e93715f9368fa26bf54a5ca18d880a
-SHA512: 4969fb55439a83f452563948e8cae88498ef41eaa7000b56bdb88663c2b1132103d129e04b948a052d2f08c049e30eb560f3836d7f1da7ee70c79c5ac8e9af83
+Size: 182542
+MD5sum: a3a8aa97537004fa0f4490657e4ff7ea
+SHA1: 2cd2058b601d8c29601dad32b7359d9acaaa9553
+SHA256: 8e526c03f0d284898354148e3302227012614e810ad2d1d11fa4f0ab4a394756
+SHA512: e4b2fd66d4d9ad9a4a884c4a8889fc9b5985960c3447989472537c3b6cbb66059bf6d38bf97b27e451c29f34af2d932889c55bb8f33f19bc1c808ddd7adfd2bb
 Description: Menu by DLGamingVN! Xem Thêm Các Mod Hack Miễn Phí Cho IOS Tại Website https://dlgamingvn.blogspot.com/
 Name: Hack Liên Quân Mobile 1.44.1 BY DLGamingVN
 Author: DLGamingVN
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: dlgamingvn.pubg.com
@@ -274,14 +297,15 @@ Maintainer: DLGamingVN
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debs/dlgamingvn.pubg.com_0.18.0_iphoneos-arm.deb
-Size: 182170
-MD5sum: 9c89c993e793fdc20a77d8d129c881ee
-SHA1: 6143eda31e41361d1bc43430ee4cf73a4860c110
-SHA256: 6083a77b419f0e278b3c0a1dc5007a8fe6a766f65a1648d378a48d72744d5f3c
-SHA512: bedc87849ce933a6cc6f0c2c07994e5e751cac82f885ac950559f9449da4d32d1aefb3b811ce55958d99a2a6f24d28b02c7d48ac5c099b9cf8b36e3d0b72d836
+Size: 182202
+MD5sum: 0e73fe6c77e7fada569cfbc0d3ee04d9
+SHA1: 75dcce6d0995379482a028a439fd0f9394bdf11e
+SHA256: ee353c1ac45c6c944dc555ea60cc773cd5414548769abd275a474bc68f9e0b13
+SHA512: 716f5c9ec3ce995fd3ea22af77e618fefdb83fad8a64fbf84eabbf8fb4ebc41953d4ea53d20aeab95e00b779a1eeaa3dc8ded400ca9243c45b0f39732c079e70
 Description: Menu by DLGamingVN! Lưu ý có thể bị khóa nick
 Name: HACK PUBG MOBILE VNG 0.18.0 - DLGamingVN
 Author: DLGamingVN
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: ipalibrary.info.freefire
@@ -292,14 +316,15 @@ Maintainer: IPALibrary
 Installed-Size: 1976
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/ipalibrary.info.freefire_1.69.1_iphoneos-arm.deb
-Size: 1231322
-MD5sum: 7988057610a5859803ad3361507b10ae
-SHA1: dcf0c285300d9b72ab7cfaeed73aa306fed8eca4
-SHA256: 726cfa7a213f317cde8cd61ebe2233e73ac5c787ca7467f6ea9560ebb2589240
-SHA512: 523f083663e0efd2250652d81fdf8be63ed054651548b779128a58a3c90c0c9399f297ca2d4e730be3d6000c3cab3afcfeac6daf671058061ae3e735af0696f1
+Size: 1231360
+MD5sum: 87474ceddf3ce0cf58dc6d404b790324
+SHA1: 88b94674ab7792343c9ac158e544a452c694791c
+SHA256: 5561ed9097df4b209055a7b55cc0b6ebba5227e8bda5208bc41107e51f013aa5
+SHA512: 305c88cc8bbac2c134701d40dc1e27b097dea1170ecec1aeea26a1b6f6dd5d0a846e843f9ae97d591b8940d04d297ba38f4b3af041b3ef5a4fe90b6a232089c1
 Description: An awesome hack!
 Name: Hack Free Fire 1.69.1 Ghost Hack + Leo Tường
 Author: IPALibrary
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: jp.dl.reprovision
