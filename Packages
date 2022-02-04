@@ -1,21 +1,3 @@
-Package: com.dlgamingvn.github.io.icon
-Architecture: iphoneos-arm
-Version: 1.0
-Essential: yes
-Section: System
-Maintainer: DL
-Filename: ./debs/Icon Repo DL.deb
-Size: 420940
-MD5sum: 8c54531639ce7c4ef0ac89af3c80b728
-SHA1: 025f90d9e70c4f3d08233af98581ae432ec4e32b
-SHA256: 661bf62c781bd75585ff5611388ceae1f0b2025696b4fd4f88fd20a145613b1c
-SHA512: 5e3b4e3a02532d6487c4bbb5acd645f9ef9b90794b738e82338c9366a77095ead3d4a9c9e6577b77c99bf07de09d9bc81b29bb3a93a57d9b202a06d437a95aa9
-Description: Biểu tượng Cydia cho kho lưu trữ DL
-Name: DLGamingVN-Icon Repo
-Author: DL
-Icon: file:///Applications/Cydia.app/Sections/dl.png
-Depiction: Biểu tượng Cydia cho kho lưu trữ DL
-
 Package: com-arab-cydia.iGameGuardian
 Architecture: iphoneos-arm
 Version: 8.3-1
@@ -176,6 +158,24 @@ Description: Làm cho ứng dụng sử dụng FPS cao nhất
 Name: CAHighFPS
 Author: PoomSmart
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
+Package: com.dlgamingvn.github.io.icon
+Architecture: iphoneos-arm
+Version: 3.0
+Essential: yes
+Section: System
+Maintainer: DL
+Filename: ./debs/com.dlgamingvn.github.io.icon_3.0_iphoneos-arm.deb
+Size: 420942
+MD5sum: 61e4ceca21ff9b9bc7ff3c4016b92367
+SHA1: b496943916746c536b750e96a1469e03ec4907e2
+SHA256: 28dfc9b646b9eddc3cf8db1d6bc46d513175b0ec8636eb674b3378c7a39c0ba5
+SHA512: 985a798efdc3ce3b83746db0756c21c8008bebc83381fba537a41b1cac7557e10bda039dfaebb7db7b27473bb2be83b5907d743d88b660c47a4fbc338e5b7d9d
+Description: Biểu tượng Cydia cho kho lưu trữ DL
+Name: DLGamingVN-Icon Repo
+Author: DL
+Icon: file:///Applications/Cydia.app/Sections/dl.png
+Depiction: Biểu tượng Cydia cho kho lưu trữ DL
 
 Package: com.gamegod.igg
 Architecture: iphoneos-arm
