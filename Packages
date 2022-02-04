@@ -16,6 +16,23 @@ Name: iGameGuardian
 Author: Aqua Wu <igameguardian@gmail.com>
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
+Package: com.34306.gi
+Architecture: iphoneos-arm
+Version: 2.4.0-1
+Section: Hacks
+Maintainer: Little 34306
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.gi_2.4.0-1_iphoneos-arm.deb
+Size: 188406
+MD5sum: bcb8c3eca680ce18285c0e3eecfd5da6
+SHA1: 4fd3feea15b602dd8500a398b0e3f64a0a56e1cb
+SHA256: 215856040470dc71078e6933eb323d1d649d6da275db65fbeecba8c85aed2a94
+SHA512: 2905aaa867e7c36295e4ab257d1afdb3ed2ded5811d32610bff3d1315af45157bfa7e1abbb57d5cc879e2675d1bac5a9985e42ef2d5f8e14082114c406310941
+Description: MUA NHÉ! IB CHO FB ĐẠT LÊ
+Name: Hack Genshin Impact 2.4.0
+Author: 34306
+
 Package: com.dl.altstore
 Architecture: iphoneos-arm
 Version: 1.4
