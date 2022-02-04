@@ -121,6 +121,24 @@ Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Name: Hack Cam Xa Liên Quân All Version
 Author: DLGamingVN
 
+Package: com.dl.modifyapps
+Architecture: iphoneos-arm
+Version: 3.1
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 10524
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Filename: ./debs/com.dl.modifyapps_3.1_iphoneos-arm.deb
+Size: 2694946
+MD5sum: 36833635a3a5eaed3907fcb01a77059f
+SHA1: 43c9fdfa454d35cb30c85ce481f8049e76069615
+SHA256: 6b80133db97aa2b67bdd6f24a8cba6195bc1efb927f1a596c3d4e616841831d7
+SHA512: 8fd4d314223512e9dbcf1cfad2e13accf56a12376d1d7bb7a7f3dfc1c1a8c9cf2c66b2fdbba7217c6d89d82217fb529cd73a647635cef50d97392d202317b941
+Description: Hack ứng dụng với tinh chỉnh tuyệt vời!
+Name: Apps Modify
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Author: Halem, Huy Hue (trans)
+
 Package: com.dlgaming.playtogether
 Architecture: iphoneos-arm
 Version: 1.30.0
