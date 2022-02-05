@@ -52,6 +52,24 @@ Name: AltStore
 Author: Riley Testut
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dl.bypassmbbank
+Architecture: iphoneos-arm
+Version: 1.0-20
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 644
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.bypassmbbank_1.0-20_iphoneos-arm.deb
+Size: 245412
+MD5sum: f97a42322d9894b0ea4d90be69b28d8b
+SHA1: a975d517872e7ec88c5245a03c11997eb1642981
+SHA256: 1b0e2c94c667b45dcbba61a0fbd235baefa0888aa94b17925448c0a37a4117ee
+SHA512: 4b87991a9382eb0de71cb21292d622370710c4c6c10138c1ce736c92c9d411f8cad83a35e07c403b328550c2aa8d608ffe90213598da345de866dad7532650f7
+Description: Bypass MBBank update for newest version
+Name: Bypass MBBank
+Author: iPALibrary
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
 Package: com.dl.dlgmemorinjected
 Architecture: iphoneos-arm
 Version: 3.0
@@ -85,6 +103,25 @@ SHA256: a8625f746cbd6b2fb444e56415c6e62216d48ed398996007ccf1027774302954
 SHA512: 0973d9ccf08aa50f28f5f7d706087b7db207a0c43ce7a00afbd07189a5012af9e59fff48dab9e9a7fd6cf2e5de27369c4f97dc9e0ccfcf08f94d332690583619
 Name: Hack Free Fire Chams All Version
 Author: 000
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
+Package: com.dl.genshinjailbreakbypass
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DL
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.genshinjailbreakbypass_1.0_iphoneos-arm.deb
+Size: 7634
+MD5sum: d4d1e77ad9ea235c6f262d4f21ea5df2
+SHA1: 48d63ccc454d15b2d88cb4ac67a6ec3440c82676
+SHA256: e908f2be65f9316a3ec0a519efbb2e8200487572a48f664789da349f7126f44c
+SHA512: 808b864b128e1d13a321eaca91f831bce80247ec407466e5f9b60c76b3e474a8171d3a93a7a9f676d8937d8807a07c4c9ed613bf0d1bf99b91ee68a8ee611e80
+Description: Bỏ qua thông báo "Lỗi dữ liệu, vui lòng đăng nhập lại"
+Name: Genshin Impact Jailbreak Bypass
+Author: iVoider <alex@playcover.me>
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
