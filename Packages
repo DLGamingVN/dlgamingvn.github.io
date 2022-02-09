@@ -388,15 +388,16 @@ Maintainer: TheArmKing
 Installed-Size: 616
 Depends: mobilesubstrate
 Filename: ./debs/com.thearmking.freefiremax_2.69.1_iphoneos-arm.deb
-Size: 273972
-MD5sum: 9ca21789130175aa1f0639cd6c622cb4
-SHA1: 8d7ed196bce67747f5e684a29a5a1e93514bf5db
-SHA256: 95c443727b767fb72abe34e9afc40563bb4585c3afe424593213304be94171b8
-SHA512: 14ac361a2b3410a34339e015697b404fc76a93dbb2e7bc5224de422235a74efe3c03220f983f677e5aa823ea2f4fdd96eb726060e64e0e488fd8e93c96796495
-Homepage: https://platinmods.com
+Size: 274036
+MD5sum: b2be127d8ac31b607b7751f6ef4859ef
+SHA1: c0aba9e012e926651d4388968f980ba3b0860f5f
+SHA256: 3e978b7e5cd994a7a0ec64b2c5e4f5f968fc309cea290bafbeabc7c77f33b486
+SHA512: 1ab8c27b1778bd8e8f75bc66a26d3466a5eb2ec101ef888ffb8293e8612f9f5e658f451a69b711bcc98f3f3dd009ccfa626a9738a65f29dec75856ebfb2331dd
 Description: [PMT] Garena Free Fire MAX 2.69.1 - MOD by TheArmKing @Platinmods.com
 Name: [PMT]Garena Free Fire MAX - JB MOD
 Author: TheArmKing
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.thearmking.vnaovjb
 Architecture: iphoneos-arm
@@ -406,15 +407,16 @@ Maintainer: TheArmKing
 Installed-Size: 612
 Depends: mobilesubstrate
 Filename: ./debs/com.thearmking.vnaovjb_1.44.1.6_iphoneos-arm.deb
-Size: 267722
-MD5sum: 083b5aefb430f870bbec21a0a10ae864
-SHA1: 22f26fb475832d81dc7c70fe5511c6c6cb9c23cc
-SHA256: 1f9904ad2f09c54c722f24ba8248c364d9acdb686e32ea86210fa1c2c7d6c8b6
-SHA512: e3bd1ec15401aabfb7d28031b519444d2cb00083c82a604637374b8f205d4e7a55dd43a673b81a70b7358ce8d1513c6927c186d3a114fb51b608685c68e78fae
-Homepage: https://platinmods.com
+Size: 267792
+MD5sum: dfbc854b556ced9cc1b850a1fd353dd7
+SHA1: 0b33f62a13ddbe9cd4f5baeee80443192420dd80
+SHA256: eb6afd504121d4b1c01e65d67f66b9ab11fbffecf7a98a16ac4703df00eb5664
+SHA512: 9ea8f46b70e57f7ccefa91e17639823c2cd63b66c45b6feda89c03786fc09509103ba064eed19372398638febe48f2d4676c26273cef4a825eec882303fc108c
 Description: [PMT] Garena Liên Quân Mobile 1.44.1.6 - MOD by TheArmKing @Platinmods.com
 Name: [PMT]Garena Liên Quân Mobile - JB MOD
 Author: TheArmKing
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.thearmking.warrobots
 Architecture: iphoneos-arm
@@ -424,15 +426,16 @@ Maintainer: TheArmKing
 Installed-Size: 612
 Depends: mobilesubstrate
 Filename: ./debs/com.thearmking.warrobots_7.8.1_iphoneos-arm.deb
-Size: 269172
-MD5sum: 8becdc25e8494c37c20665c3b66cd747
-SHA1: 852d62ee2f73b4535657dc70e7df6a285fbbf2f2
-SHA256: 71f47f40045a630b9f47ab65af41836b7c85d54d71158862a902eb0f5655a290
-SHA512: 1086feb115cc945e7cc1dbcb75e757241dc5e489c2e35ed34fad835d1a5be3c8ebc48a73ea81a74df0482ae42582a83806ba7abd2b86b8c367a532dadd204fcb
-Homepage: https://platinmods.com
+Size: 269232
+MD5sum: c659a4a76144f0e05714f50379c879eb
+SHA1: 56fd3e5eaa99025f7a3490d45dd057d656dda982
+SHA256: 34b8892756e4d491d3f56bf69c57e202b8222065f67003f19aea0ef5beff3334
+SHA512: b0b3c88825f91969f7d6906e2e01eaebd98960b543b545ad705f47a6f4afc48d3aa132d37c3c9619242ed314433badf66e09fb3a4b46a98a4a872d548bf1ecd6
 Description: [PMT] War Robots Multiplayer Battles 7.8.1 - MOD by TheArmKing @Platinmods.com
 Name: [PMT]War Robots Multiplayer Battles - JB MOD
 Author: TheArmKing
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
