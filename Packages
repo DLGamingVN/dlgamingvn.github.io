@@ -35,6 +35,23 @@ Author: 34306
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dl.VipForYT
+Architecture: iphoneos-arm
+Version: 0.6
+Priority: optional
+Section: Hacks
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.dl.VipForYT_0.6_iphoneos-arm.deb
+Size: 10250
+MD5sum: bbdd2872829d6cf57faa4816ee872989
+SHA1: d75a6c7cc968a4d73d15b8e0b831027519c4c96c
+SHA256: 7e0da5e087e6c2806d61caf9527d6ff87779af7acc51894cb29c3d627f3b8cdb
+SHA512: 5a08bc70b4d677e048abbe9c85075ba60a78b7521d930e5f09782740643111dce7d3619a16b5e0796850fcf069ae719eb5d25547dd392e3e9b649f9b201823f7
+Description: Mod By VXV JB & NoJb
+Name: Fix 10Min Pubg
+Icon: file:///Library/PreferenceBundles/akiaprefs.bundle/icon@2x.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
 Package: com.dl.altstore
 Architecture: iphoneos-arm
 Version: 1.4
@@ -51,6 +68,25 @@ Description: Đăng ký và gia hạn chứng chỉ cho ứng dụng
 Name: AltStore
 Author: Riley Testut
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
+Package: com.dl.antibanpubg
+Architecture: iphoneos-arm
+Version: 1.8.0
+Section: Hacks
+Maintainer: Dictator
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.antibanpubg_1.8.0_iphoneos-arm.deb
+Size: 83910
+MD5sum: 1dedd1bc0217119a26a0fe2df36e5be2
+SHA1: 85d6382ad5d96f84907dbe83fe9d81f3c1519f25
+SHA256: 4b64192bcfa523f0bb236bc3f7168fb7eb2c0395ffb9929dc7357ed46d828906
+SHA512: bda7f5a4b4312bb3834153d104ee9bf34da6f61a288f06154b19865115e4f1166fe976e1af457130eb4664aa951568e1e0257e8e67653d9a975588e1100f966c
+Description: Mod By Dictator!
+Name: Antiban Pubg 1.8.0 By Dictator
+Author: Dictator
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
 Package: com.dl.bypassmbbank
 Architecture: iphoneos-arm
@@ -194,6 +230,42 @@ Description: Hack ứng dụng với tinh chỉnh tuyệt vời!
 Name: Apps Modify
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Author: Halem, Huy Hue (trans)
+
+Package: com.dl.pubgvn3nut
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DL
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.pubgvn3nut_1.0_iphoneos-arm.deb
+Size: 389408
+MD5sum: 54720b398f05eaf368979d14abd7c08a
+SHA1: ca5f5780bfd7ee944205becd0d4ba2e7a705f734
+SHA256: 8ac649385aff64268eaa25f2c275fea8068b24b9d9975369ff96aee11ed58ea3
+SHA512: 43875fbd5d188cf4a2316e3c0650672cc0cb4617b34b6bf1e9fe7cceffe59d439fc09843aca4e526d52cbbb2e4c1e67dcaa40605398c792f63e8ecc7aa7a92e3
+Description: Dùng 3 ngón tay bấm liên tục vô màn hình để hiện menu hack
+Name: Hack Pubg Mobile VNG Menu Tàu 3 Ngón
+Author: DL
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
+Package: com.dl.slidersmall
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DL
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.slidersmall_1.0_iphoneos-arm.deb
+Size: 12974
+MD5sum: 444ee52fdc7571742ed6980379ee0dd8
+SHA1: 5ee6d051fb06271ce7000fb5998b1e44c6d0440c
+SHA256: cd1bc24bea33f96e15a5e9a8adce03febf1e2935ebd2a26ec06e74398aefb05e
+SHA512: d498cb13ca03269bde282eefd7afe3b15cd6fa8cd52bb92dd9ae69df8bb4833d3c5927c40eb821c7ad7540e3c24e74f65bcd0b790f0be221d9a3c1c432518069
+Name: Hack Xray Pubg VNG Thanh Trượt
+Author: KurdiOS
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.dlgaming.playtogether
 Architecture: iphoneos-arm
