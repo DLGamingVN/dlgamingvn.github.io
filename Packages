@@ -52,6 +52,26 @@ Name: Fix 10Min Pubg
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dl.adspeed
+Architecture: iphoneos-arm
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: BigBoss
+Installed-Size: 893
+Depends: mobilesubstrate(>= 0.9.5015), preferenceloader(>= 2.2.2), applist
+Filename: ./debs/com.dl.adspeed_1.0.4-3_iphoneos-arm.deb
+Size: 204818
+MD5sum: a0a2eae19ea5b3b567639eb9848f6398
+SHA1: 18de7ea3bc0efaa25adffc08151b14d727560fe6
+SHA256: bbaccbb63a9c4c79706392bc6c6e2d1bc5cabd7c0886b6a0888658f6eec33ba8
+SHA512: c2ac75238944a7e6e6f4b360bdeb9c00a89035a55e9c5461a490c631b5f1acbb46ea9a13eaf0d9fc4514c41872de944205d4d671c12835e9d4202f23110ef001
+Description: Nhanh chóng bỏ qua quảng cáo video và nhận phần thưởng như bình thường.
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: DLGamingVN
+Name: Video Ad Speed Việt Hóa
+dev: lenglengyu
+Icon: file:///Library/PreferenceBundles/adsspeed.bundle/icon@2x.png
+
 Package: com.dl.altstore
 Architecture: iphoneos-arm
 Version: 1.4
