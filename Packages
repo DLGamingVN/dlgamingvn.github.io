@@ -1,3 +1,57 @@
+Package: com.thearmking.freefiremax
+Architecture: iphoneos-arm
+Version: 2.69.1
+Section: Tweaks
+Maintainer: TheArmKing
+Installed-Size: 616
+Depends: mobilesubstrate
+Filename: ./debs/[PMT]Garena_Free_Fire_MAX_v2.69.1_JB-MOD_Platinmods.deb
+Size: 223694
+MD5sum: 40ec88a97ee2f8314bdcecac8ac684f2
+SHA1: 76fc27feaa71b91e58cf0383f621a7c8315d4789
+SHA256: e2352c443508793925cbc07a9f7aeda1d027c80524d6e998333805ab4316403c
+SHA512: 6aee753be2d666828b47a1ab2ca2dfbe55cbc9bae3ea434e07f7730def0c1b6fdfafb5f2ec4187f4048ab0804bebd1145a44e99e4fb63d1b800ad8d5a007ab71
+Homepage: https://platinmods.com
+Description: [PMT] Garena Free Fire MAX 2.69.1 - MOD by TheArmKing @Platinmods.com
+Name: [PMT]Garena Free Fire MAX - JB MOD
+Author: TheArmKing
+
+Package: com.thearmking.vnaovjb
+Architecture: iphoneos-arm
+Version: 1.44.1.6
+Section: Tweaks
+Maintainer: TheArmKing
+Installed-Size: 612
+Depends: mobilesubstrate
+Filename: ./debs/[PMT]Garena_Liên_Quân_Mobile_v1.44.1.6_JB-MOD_Platinmods.deb
+Size: 217270
+MD5sum: 37b215390b6c214e84833d71375f033a
+SHA1: 88517c1d83873fb0d1ad874812567fba8f5d8f4a
+SHA256: 662a39745fe3ca025929c1ebb75b104cdb4773cbaa0a4d0e5e8e091f4e8a3d4d
+SHA512: 3fa725aefb2b9ea2332e2fe8d2ea709f35a755cf663f08f12220ac683759f55d1c2b4064a49a4c45803e8ad534db9e499bd3478c2b0c90a3be521f7edbb9a7c8
+Homepage: https://platinmods.com
+Description: [PMT] Garena Liên Quân Mobile 1.44.1.6 - MOD by TheArmKing @Platinmods.com
+Name: [PMT]Garena Liên Quân Mobile - JB MOD
+Author: TheArmKing
+
+Package: com.thearmking.warrobots
+Architecture: iphoneos-arm
+Version: 7.8.1
+Section: Tweaks
+Maintainer: TheArmKing
+Installed-Size: 612
+Depends: mobilesubstrate
+Filename: ./debs/[PMT]War_Robots_Multiplayer_Battles_v7.8.1_JB-MOD_Platinmods.deb
+Size: 218432
+MD5sum: 9002a4ab9d9f55839a95768ddc717bde
+SHA1: f1155040659efe5549e15334e457cc6a0eab65e0
+SHA256: 1bf2fe445608f7cd2bd3afffb988e8c4986a9af44d9d0b841cc74c0729e4e391
+SHA512: a918d648ca66f72a882613fd83482c22ca7640012783986212ecab99c1cccafdd3bf8d82729dc41492620dfbd50d3552ef43f1ebc4930a33f1f18bc9f282e6e1
+Homepage: https://platinmods.com
+Description: [PMT] War Robots Multiplayer Battles 7.8.1 - MOD by TheArmKing @Platinmods.com
+Name: [PMT]War Robots Multiplayer Battles - JB MOD
+Author: TheArmKing
+
 Package: com-arab-cydia.iGameGuardian
 Architecture: iphoneos-arm
 Version: 8.3-1
