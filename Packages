@@ -108,6 +108,25 @@ Author: Dictator
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
+Package: com.dl.anywhere
+Architecture: iphoneos-arm
+Version: 6.7.0-6
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 178712
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: ./debs/com.dl.anywhere_6.7.0-6_iphoneos-arm.deb
+Size: 70037730
+MD5sum: 89b4a8f0f3a6530689907e128d35b526
+SHA1: 2032b9cd883a5fb554006c8f3c17b8abf122f1a5
+SHA256: 5f6cf2650ebaa420306ccfc1e246f0904377c42526adf93d5fd35b49a855c7ec
+SHA512: 281aff5213edba04f688103324ec154199e244ad102882961c3d8bb444d3e6af446aeb871cd69c1ac75b4c021cd5706489d887aae857a148fdd1e15795f2c93e
+Description: địa chỉ và sửa đổi thông tin thiết bị!
+Author: onTheRoadStudio
+Name: Anywhere!-Định Vị Ảo Việt Hóa
+dev: ontheroadstudio
+Icon: file:///Applications/OTRLocation.app/icon.png
+
 Package: com.dl.bypassmbbank
 Architecture: iphoneos-arm
 Version: 1.0-20
