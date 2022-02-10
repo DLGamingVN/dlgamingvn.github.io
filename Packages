@@ -116,11 +116,11 @@ Maintainer: DL
 Installed-Size: 178712
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.6)
 Filename: ./debs/com.dl.anywhere_6.7.0-6_iphoneos-arm.deb
-Size: 70037730
-MD5sum: 89b4a8f0f3a6530689907e128d35b526
-SHA1: 2032b9cd883a5fb554006c8f3c17b8abf122f1a5
-SHA256: 5f6cf2650ebaa420306ccfc1e246f0904377c42526adf93d5fd35b49a855c7ec
-SHA512: 281aff5213edba04f688103324ec154199e244ad102882961c3d8bb444d3e6af446aeb871cd69c1ac75b4c021cd5706489d887aae857a148fdd1e15795f2c93e
+Size: 70037946
+MD5sum: 8800ced20109e4358e6f605771111dc4
+SHA1: dd78cb267a4a46a0d129eb79bd86841d0e1a0a8d
+SHA256: 09a081b6314f0ea01297a83a24abe7d92078e69d24a991a7a990b9d94e752f56
+SHA512: c4e24a64904e8417ef1e9fae8f55342c70d977209639406522730fc9ddcfdcca98e934c05fc97e604e5e85af9e17320891f4a7aaa88fa65fa6745e61493a464d
 Description: địa chỉ và sửa đổi thông tin thiết bị!
 Author: onTheRoadStudio
 Name: Anywhere!-Định Vị Ảo Việt Hóa
