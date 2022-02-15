@@ -491,6 +491,27 @@ Author: KurdiOS
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dl.snowboard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 5008
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.spark.snowboard, anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.dl.snowboard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 2199844
+MD5sum: db46e0ee8ea1bcfc4964aca1af9c7d55
+SHA1: 27b095f16643c8ffaf4358203658b3765679f7a1
+SHA256: 2cf280f03abdce1aa221a558ad130433beb8e265a2e564257092b2df6601a640
+SHA512: 76a7c9761462b147087d2419b03c46729545640b21f0e549dfc60784ac3f27e7792422c0e76b6bb1e824e344267a7ad77839929ff6d82babe251226eb9a6aa71
+Description: Cài đặt chủ đề cho iOS.
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.htm
+
 Package: com.dl.tiktoknoads
 Architecture: iphoneos-arm
 Version: 1.3
