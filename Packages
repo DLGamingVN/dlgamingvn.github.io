@@ -52,6 +52,25 @@ Name: Fix 10Min Pubg
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dl.adguard
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DL
+Installed-Size: 624
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.dl.adguard_1.0_iphoneos-arm.deb
+Size: 150694
+MD5sum: 4a6e65d1d9fe79a3f85ca5f0d4cefc67
+SHA1: 30341894c181b2d8d45116f7124382dbe7b146ac
+SHA256: 801a85804b186880bd80792518d0cef347e418bbdbbdde6783b9449205ad9fdb
+SHA512: a2e99b8337e4b20e56d82da1c1b9766e942668866dbc743bcdb1d866d7dc99ad2625828b8a622eeeabd3631a0286b8cfe58d714462d236b3a992cd0e107f9bee
+Description: Kích hoạt tính năng Pro cho ứng dụng Adguard.
+Name: Adguard Pro
+Author: stem grade
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
 Package: com.dl.adspeed
 Architecture: iphoneos-arm
 Version: 1.0.4-3
@@ -71,6 +90,26 @@ Author: DLGamingVN
 Name: Video Ad Speed Việt Hóa
 dev: lenglengyu
 Icon: file:///Library/PreferenceBundles/adsspeed.bundle/icon@2x.png
+
+Package: com.dl.altlist
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Development
+Maintainer: DL
+Installed-Size: 305
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.dl.altlist_1.0.7_iphoneos-arm.deb
+Size: 73064
+MD5sum: 15dd816fd58b99e1ab632130d5bc06f0
+SHA1: e041b491d7674ca727e0d3d9efca9b444829daf5
+SHA256: 05f80c4e5ee73fd3175309e237d21af162c4f9413fe16ea4b19ffd773ce72f66
+SHA512: d12c58fa9f84ffe20afd08001b6436620848c8c4198f41d10d7074fd548fd2129339e7467f14a4a3f26ebc4ccd9f82b73cdcd2602ec84ff5aceead2d931aeb6a
+Description: Một ứng dụng thay thế AppList hiện đại
+Tag: purpose::library
+Author: opa334 <opa334@protonmail.com>
+Name: AltList
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+dev: opa334
 
 Package: com.dl.altstore
 Architecture: iphoneos-arm
@@ -252,6 +291,23 @@ Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Name: Hack Cam Xa Liên Quân All Version
 Author: DLGamingVN
 
+Package: com.dl.milkyway4
+Architecture: iphoneos-arm
+Version: 1.1~Beta
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 134
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.dl.milkyway4_1.1~Beta_iphoneos-arm.deb
+Size: 84608
+MD5sum: 19cfadd5bce17439767000c9b4ccb635
+SHA1: f77835b7c8934aaa2d43f846f957474c2069ed39
+SHA256: 6010eddf58c81b34046677d3944d04f4ff69d38e7bdc2762fac01203996f826c
+SHA512: 544633019cb945264d90a881a5f9fa68fc05fe99a3e7d7c3ab4145f25189019d145d06a8ee42332e06e20d306e3b3cf04c25204cf3034642db5358472ab179d4
+Description: Tinh chỉnh nâng cao cho đa nhiệm,Support Ios 14.0-14.5
+Name: MilkyWay4
+Author: akusio <akusio-report@neko2.net>
+
 Package: com.dl.modifyapps
 Architecture: iphoneos-arm
 Version: 3.1
@@ -269,6 +325,23 @@ Description: Hack ứng dụng với tinh chỉnh tuyệt vời!
 Name: Apps Modify
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Author: Halem, Huy Hue (trans)
+
+Package: com.dl.netflixpro
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Hacks
+Maintainer: DL
+Filename: ./debs/com.dl.netflixpro_0.3_iphoneos-arm.deb
+Size: 67434
+MD5sum: 3766c660baa84f7b1f62ea910980c5c4
+SHA1: 8b1c061274a10d716f98ebf5c9ef76e96c76d2bd
+SHA256: 0a3748ddfc5c660cdaa5511a0e70d34eb2954615642e23bd4078051c7ea92809
+SHA512: 2fa83c92724e7a65f372f4e5eeee07c7f40a2a654ad3edd4378d987c83691f197318361ac5b8e7a353b886a9f70deb240a23847c717c4a903980426c3cdacc38
+Description: Trình tài khoản Pro cho Netflix
+Name: Netflix Pro
+Author: julioverne
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
 Package: com.dl.picsarthack
 Architecture: iphoneos-arm
