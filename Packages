@@ -166,6 +166,24 @@ Name: Anywhere!-Định Vị Ảo Việt Hóa
 dev: ontheroadstudio
 Icon: file:///Applications/OTRLocation.app/icon.png
 
+Package: com.dl.autotouch
+Architecture: iphoneos-arm
+Version: 10.4
+Priority: optional
+Section: Utilities_
+Maintainer: DL
+Installed-Size: 100716
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Filename: ./debs/com.dl.autotouch_10.4_iphoneos-arm.deb
+Size: 44509988
+MD5sum: f2e13fdd7eaa6d88a735f126a243df50
+SHA1: 4ad8facca05ba593751728c9723c1676b53f1c76
+SHA256: b65f8ccd44492192c42738f81b3c3aa0f3649c5d0942962ac591354f2d959adb
+SHA512: ba454344410c0674e1d2c13d5f01553cad653b52950eccbe042f27ae56a96bca608bddc9ca9edf2fa872fea4e777023b1e97dd18a177373ed748709148a53cb8
+Description: AutoTouch giúp bạn lưu lại cử chỉ và sử dụng như auto click.Sau khi cài đặt, bạn cần mở AutoTouch trên màn hình chính và chọn Cài đặt > Giấy phép và nhấn vào tải xuống giấy phép đế kích hoạt AutoTouch. Ghi lại, phát lại, mô phỏng chạm/nhấn trên mọi nơi của thiết bị, chạy tập lệnh Lua. Phiên bản hiện tại được hỗ trợ cho iOS 9 - 14
+Name: AutoTouch
+Author: Kent Krantz <kentkrantz@gmail.com>
+
 Package: com.dl.bypassmbbank
 Architecture: iphoneos-arm
 Version: 1.0-20
@@ -220,6 +238,25 @@ Author: 000
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
+Package: com.dl.frontpage
+Architecture: iphoneos-arm
+Version: 1.6.9
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 2812
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.junesiphone.frontpage
+Filename: ./debs/com.dl.frontpage_1.6.9_iphoneos-arm.deb
+Size: 1015216
+MD5sum: 7a619fcc9f44a914139fc1096a056ca4
+SHA1: db34a0160a8d3e7850a4936124fe256f65f152c7
+SHA256: 20b6089e7b27e45ea3d7e228c609ffbf7af0c3a6373b7dd24a7be7f1e506a0b4
+SHA512: 7512b78c7db8f7b95a10493a0b6441b32b9d744d5febc9af429c14656cc9ec3afd324712e06cc95ea32410aeeb2d866a639774639e72e47153f18b9fc128e673
+Description: HTML mạnh mẽ hơn cho màn hình chính
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.htm
+Name: FrontPage
+Author: JunesiPhone <junesgraphics@gmail.com>
+
 Package: com.dl.genshinjailbreakbypass
 Architecture: iphoneos-arm
 Version: 1.0
@@ -239,6 +276,24 @@ Author: iVoider <alex@playcover.me>
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
+Package: com.dl.hidejb
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 1929
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 7.0), ws.hbang.common (>= 1.13.1), applist, preferenceloader
+Filename: ./debs/com.dl.hidejb_2.1.1_iphoneos-arm.deb
+Size: 425922
+MD5sum: 6fbdd35ccd9d32179d8db9195cac5ade
+SHA1: 21e0ab56cd7b21b398442cf48b55f99bacfaf576
+SHA256: eaf263a4ee05b55a5310b46087a27a0930c0ff322c7c23b451ea02c107a8789b
+SHA512: 9814b24267fbc6160b328438cb07f5e1420d1d1c493c44da7f48e24781e262cdaa6f11ea6687cb1a6bacb7c3bdb3e273df98e11c083167a0af265436c1698891
+Description: Bỏ qua phát hiện bẻ khóa trong các ứng dụng nhất định
+Author: TTJB Team <admin@thuthuatjb.com>
+Name: HideJB
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.htm
+
 Package: com.dl.igoi
 Architecture: iphoneos-arm
 Version: 1.03
@@ -256,6 +311,24 @@ Description: Một Tweak giúp bạn đưa offset hack vô Menu Platinmods và k
 Name: In-Game Offset Injector
 Author: TheArmKing
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
+Package: com.dl.kinehack
+Architecture: iphoneos-arm
+Version: 5.0.7-1
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.kinehack_5.0.7-1_iphoneos-arm.deb
+Size: 320622
+MD5sum: 44966e57fae59fad6b5979db97dc91d0
+SHA1: c490e77a72593ac43acfd10a0e56654640ff3bbc
+SHA256: 629825911ed85d6de41dd95ea568e4264b865e2f6a2d33319702443d206a606e
+SHA512: 69dde7ed6be74acf0d55b944bc0c4746fbe190fa770986cdd2076fa99f07aca98c9eeb74e9ba858615a853d8f4c313c8ebcda2b91f70bc508de6860f3019b212
+Homepage: ipalibrary.info
+Description: KineMaster Hack by IPALibrary
+Name: KineMaster 5.0.7 Hack
+Author: IPALibrary
 
 Package: com.dl.lockdown
 Architecture: iphoneos-arm
@@ -435,6 +508,23 @@ Author: Agricu <1004571093@qq.com>
 Name: Tiktok TQ No Ads
 dev: agricu
 
+Package: com.dl.translationvh
+Architecture: iphoneos-arm
+Version: 1.4.9
+Section: Tweaks
+Maintainer: DL
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.dl.translationvh_1.4.9_iphoneos-arm.deb
+Size: 177422
+MD5sum: f331f5e265dab69136746f412ad2341a
+SHA1: 92cb274a7b598e773a2f666eb3dedc82e4f03015
+SHA256: a426472e03ee78e4b8d8d7744ca260863c73db593f4ce2ef42015d32f057f564
+SHA512: 912042dbaa1cf3d67240cb668b7f6b1d40ab58b5c0b842bcf8835c16fe093423e61bff9e3b0705f4e5e73f6d2df3c30ff23edabd5f20e95c210ea4c6fa424ac3
+Description: Công cụ dịch nhanh bằng cách bôi đên
+Name: Translation Việt Hoá
+Author: Sky - Pain <2398453359@qq.com>
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
 Package: com.dl.unity60FPS
 Architecture: iphoneos-arm
 Version: 4.5.6
@@ -454,6 +544,44 @@ Tag: purpose::extension
 Name: Unity60FPS Việt Hóa
 Author: Brend0n <brendonjkding@126.com>
 dev: brend0n
+
+Package: com.dl.voicechangerx
+Architecture: iphoneos-arm
+Version: 2.2-94
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 1422
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.dl.voicechangerx_2.2-94_iphoneos-arm.deb
+Size: 460316
+MD5sum: bbf0a754c18b6198d606498fa4bf438d
+SHA1: db82da367c62a48d50f423a23bc75ca812dfcea8
+SHA256: b15f1746819a84996a0d98b0724338197d3ab3499a9be1239a1693a58459652a
+SHA512: eb7b5c9f8a902fb7e845932415ae86f8c22879f5f3b2804d11d9489bc378d9ee4afe2648fc787a567998085f9e9fcca686e74e6e08d1187c13465e38974b5b04
+Description: Giúp bạn giả giọng để troll bạn bè trong game hoặc gọi điện thoại!
+Tag: purpose::extension
+Name: VoiceChanger XS
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Author: Elias Limneos <limneoselias@gmail.com>
+dev: limneos
+
+Package: com.dl.win10fp
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Development
+Maintainer: DL
+Depends: mobilesubstrate
+Conflicts:
+Filename: ./debs/com.dl.win10fp_0.3_iphoneos-arm.deb
+Size: 1700292
+MD5sum: b508cbe5437f706510037444423579b3
+SHA1: a55f79ca23476481c8f82fae453f66b85c008cb0
+SHA256: 806bde7e02c447bbf2887047a45ddf1fc753ac3a051388e333075af7d72b2ef3
+SHA512: cf3c25f76c0755911da6f456e89706bb14729aaa8545732582b6717b4034197c1c4ee1aa013979ed931d3b91bec51c61d40ddcaaea2769780ceee972389bd6ae
+Description: Chủ đề cho FrontPage. Cài thêm FrontPage để sài
+Name: Windows 10
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.dl.youpip
 Architecture: iphoneos-arm
