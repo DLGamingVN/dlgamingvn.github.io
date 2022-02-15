@@ -35,6 +35,27 @@ Author: 34306
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dl.AutoTouch
+Architecture: iphoneos-arm
+Version: 6.1.8-2
+Priority: optional
+Section: Utilities_
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 100716
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: net.kenhtao.autotouch, net.kenhtao.libat, net.kenhtao.autotouch.inputtext, com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/com.dl.AutoTouch_6.1.8-2_iphoneos-arm.deb
+Size: 44502286
+MD5sum: cf775ac3a2e4c6c83b5f40ae42f78b92
+SHA1: 55d8a0923c83a5c2bcdd0f8ad5d5570658987438
+SHA256: 13f86dee18d85f54e536e970841cd954c28a4f03a66a2cf1eaa22a6665bbbd79
+SHA512: 9a02c65bacc8c2c249767b7aea96210604ef32ed67c8bbae2fafdb30b0fe2a49f681dc4ac4015a6fd46552e8e8b787d242aa336ad5f162e1728e34ce626975fa
+Homepage: https://autotouch.net
+Description: AutoClick cho iOS.
+Name: AutoTouch
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Author: Kent Krantz <kentkrantz@gmail.com>
+
 Package: com.dl.VipForYT
 Architecture: iphoneos-arm
 Version: 0.6
@@ -165,24 +186,6 @@ Author: onTheRoadStudio
 Name: Anywhere!-Định Vị Ảo Việt Hóa
 dev: ontheroadstudio
 Icon: file:///Applications/OTRLocation.app/icon.png
-
-Package: com.dl.autotouch
-Architecture: iphoneos-arm
-Version: 10.4
-Priority: optional
-Section: Utilities_
-Maintainer: DL
-Installed-Size: 100716
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
-Filename: ./debs/com.dl.autotouch_10.4_iphoneos-arm.deb
-Size: 44509988
-MD5sum: f2e13fdd7eaa6d88a735f126a243df50
-SHA1: 4ad8facca05ba593751728c9723c1676b53f1c76
-SHA256: b65f8ccd44492192c42738f81b3c3aa0f3649c5d0942962ac591354f2d959adb
-SHA512: ba454344410c0674e1d2c13d5f01553cad653b52950eccbe042f27ae56a96bca608bddc9ca9edf2fa872fea4e777023b1e97dd18a177373ed748709148a53cb8
-Description: AutoTouch giúp bạn lưu lại cử chỉ và sử dụng như auto click.Sau khi cài đặt, bạn cần mở AutoTouch trên màn hình chính và chọn Cài đặt > Giấy phép và nhấn vào tải xuống giấy phép đế kích hoạt AutoTouch. Ghi lại, phát lại, mô phỏng chạm/nhấn trên mọi nơi của thiết bị, chạy tập lệnh Lua. Phiên bản hiện tại được hỗ trợ cho iOS 9 - 14
-Name: AutoTouch
-Author: Kent Krantz <kentkrantz@gmail.com>
 
 Package: com.dl.bypassmbbank
 Architecture: iphoneos-arm
