@@ -797,6 +797,25 @@ Author: TheArmKing
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: curl
+Architecture: iphoneos-arm
+Version: 7.65.0-1
+Priority: standard
+Section: Networking
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1896
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libnghttp2-14, libssh2, libssl1.0
+Filename: ./debs/curl_7.65.0-1_iphoneos-arm.deb
+Size: 322348
+MD5sum: 5b755c7b00631efaa87b157048f29b66
+SHA1: 1f3b280ea398194680c63fe884ef0c1774053d66
+SHA256: 5e89a61fc6cb427cff1d34e5ce2edfbb129ab086dcc5471b2ddf7c329dceaaac
+SHA512: f0070207ff69c98945ea8935f086e4d92cd690b172fad4e4d956328f97baaf0db49b5f0eeb3fb96f3147cce5bd0f8539249960ed0ce878c73b6e8b04a293df2f
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
@@ -871,6 +890,42 @@ Author: DLGamingVN
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: expat
+Architecture: iphoneos-arm
+Version: 2.2.5-1
+Multi-Arch: foreign
+Priority: standard
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 624
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/expat_2.2.5-1_iphoneos-arm.deb
+Size: 66922
+MD5sum: 57c44104876d363c27177d3f38bd8ec3
+SHA1: 8a67a2edd50ecab78ff55cae3eff76ed49ee3e3f
+SHA256: 76ea736fa770a728a0c7b2e2dc345fd2a6ec57bb86732562240d0fd137fe833b
+SHA512: 5254607dd1b68b59d88dcec8381e97249a13431cab0efc419be39828598556662b87a5d4d0fb1a7c66ea979c989ef91e5681da0028c909642fca2811dda3eca0
+Description: stream-oriented XML parser written in C
+Name: XML Parser Toolkit
+
+Package: git
+Architecture: iphoneos-arm
+Version: 2.20.0-1
+Priority: optional
+Section: Data_Storage
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 55432
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, expat, libssl1.0
+Filename: ./debs/git_2.20.0-1_iphoneos-arm.deb
+Size: 3040194
+MD5sum: 5b53985552b7446fdf539d7dc40d6898
+SHA1: 84c795182683305fda24f5ceabee19a8e0ef30fa
+SHA256: 4b1074978cf7ed944055f25fa599f1641ec6eb3afcb9f4570c24bf5620e838b7
+SHA512: 55a7874460c031e351aaab242786a66e4bb01181c8f1bd44c155ec63a57802141629501e35d5cc25a95c0cc00f78069ffd5f513285065fcd7c2027d1020dbcae
+Description: fast content-addressable filesystem
+Name: Git
+
 Package: ipalibrary.info.freefire
 Architecture: iphoneos-arm
 Version: 1.69.1
@@ -910,6 +965,114 @@ Author: Soh Satoh, Matt Clarke
 dev: Matt Clarke
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: libffi
+Architecture: iphoneos-arm
+Version: 3.2.1-1
+Multi-Arch: foreign
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 248
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/libffi_3.2.1-1_iphoneos-arm.deb
+Size: 17298
+MD5sum: ee955fe80f2b641e062029e127ec5a06
+SHA1: 80623e9dcc03675e222fab3e824e85059ee65782
+SHA256: 23cc2c09db28c7792c1266702881cd6fb5791712ce8195888be72373d54ca44d
+SHA512: ee06dc0e36e0ae7bf94c30390e7b05f7887cac040f154e21e7e11760b041ff7c5d0c382dda42356f26107bab5caf81f64aad624fa85c1852c0c28b5e9bf91e7f
+Description: dynamic generation of function calls
+
+Package: libnghttp2-14
+Architecture: iphoneos-arm
+Version: 1.40.0-1
+Priority: standard
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 400
+Provides: nghttp2, libnghttp2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: nghttp2, libnghttp2
+Replaces: nghttp2, libnghttp2
+Filename: ./debs/libnghttp2-14_1.40.0-1_iphoneos-arm.deb
+Size: 53522
+MD5sum: 53af07eb4f034bd96aa719f1aac14433
+SHA1: 3af0126e44c0674efa4acc2b2aa220b64099f217
+SHA256: 7c565c5dbcf6b6d76117ea8cbed650ae6630d93d068769ede4f53d96af621a99
+SHA512: 4e1039b860df0a7c8764f56243460aeabcd47472b7148847765d29cd9d3b540016ebe1ad96e215476991b7e222d0667ada44210e7648fdc75ee6cd7e36549a4a
+Homepage: https://nghttp2.org/
+Description: library implementing HTTP/2 protocol (shared library)
+
+Package: libpython3.7
+Architecture: iphoneos-arm
+Version: 3.7.3-1
+Priority: optional
+Section: Scripting
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Installed-Size: 108136
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses, readline, expat, xz, libssl1.0, libffi
+Filename: ./debs/libpython3.7_3.7.3-1_iphoneos-arm.deb
+Size: 10173370
+MD5sum: 1211e52a47c1580a93d3565452c02dd7
+SHA1: 1f7a7af79149fe5f8ea89792a0eb41586aa101d8
+SHA256: 4a42e01487f9a75df2a2649b3cf7710d4af171a21e4943c43f0bcd86f11586a7
+SHA512: f4900a7bc08ccb1a8f494d454c9373b0279c8d5cb7e4a2184f713a65d20ec559431fb8b4a0a7d6de3d7f784a88341e91db95086b375f8baeb41cac520cdd75df
+Description: Shared Python runtime libraries (version 3.7)
+
+Package: libssh2
+Architecture: iphoneos-arm
+Version: 1.8.0-2
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 608
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.0
+Filename: ./debs/libssh2_1.8.0-2_iphoneos-arm.deb
+Size: 77038
+MD5sum: 71bff4c1e2d48e991ffbc0d3845e8ff0
+SHA1: ee49bd64503c2fde7e8a88a8b7090fb24a563f07
+SHA256: cb79579dbad1522fc3960bd52f0e7e541d88b48e795aa8e2c69c345bbe2399e3
+SHA512: 7a086354654c0da327a22a085c8aa2904e6f4d69435cee8ce9e9539a9b182426a8e03625d37946dff726a42141b670a698d180401d1c9f81a930bf4db174adfc
+Homepage: https://www.libssh2.org/
+Description: a client-side C library implementing the SSH2 protocol
+
+Package: libssl1.0
+Architecture: iphoneos-arm
+Version: 1.0.2s-1
+Priority: standard
+Section: Security
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 6440
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ca-certificates
+Conflicts: openssl (<<1.0.2q)
+Filename: ./debs/libssl1.0_1.0.2s-1_iphoneos-arm.deb
+Size: 815306
+MD5sum: 77db2446c032e43eee9924a6bbcb39ae
+SHA1: 6b5afd03d23983153e9b4d875e0b047006cbaba2
+SHA256: 11f061046fc87942d6b6f954d60db03548202766497410ec8397ff2a8c94c8ad
+SHA512: fc036138e64e0021abad5e0a91698d890ec1c86480d815a79d813a580cd1c5b3d1989d37902919aff8028c632cdae28894a7a20495cbbe0ab9fa0569e24783b1
+Description: OpenSSL Libraries for version 1.0
+Name: OpenSSL 1.0 Libraries
+
+Package: make
+Architecture: iphoneos-arm
+Version: 4.2.1-2
+Priority: important
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 464
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/make_4.2.1-2_iphoneos-arm.deb
+Size: 82476
+MD5sum: 1bc5dcad64d11b1b3d9d2794231cfa52
+SHA1: 5c84bc746c5a4cd3a44211e6172739cac6376102
+SHA256: 1e74d832608dfd7c104b4dd1024da39697049f569e0bf8854d508bdcbd477f50
+SHA512: 20f390b67a6ed97172cfebf97aa206f9ff278b70bb234233978b21d21b0205ab14667a75774d65e065f8b7da285dd1f260c329221fffe628f48edc9185c4d84e
+Description: dependency-based build environments
+Name: Make
+
 Package: net.dl.appsyncunified
 Architecture: iphoneos-arm
 Version: 104.0
@@ -931,6 +1094,255 @@ Name: AppSync Unified
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Sileodepiction: https://dlgamingvn.github.io/
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
+Package: openssl
+Architecture: iphoneos-arm
+Version: 1.1.1i-1
+Priority: standard
+Section: Security
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1464
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, firmware (>=11.0) | libssl0.9.8, libssl1.0
+Filename: ./debs/openssl_1.1.1i-1_iphoneos-arm.deb
+Size: 226012
+MD5sum: 7e6057729996ec48f9d1ca83562f89b5
+SHA1: c79f6b18009f8512cc9b0ee4093ed03f2df923f9
+SHA256: 32343b28cfc7182c472e4e791646f8aa75573f692d8a38ab02b857ad389a46ec
+SHA512: bb9c4a898660ed1482ebab275c20fdc95ea1b13c3e4245f20e41fe11de5db494f8570fc4b0066b042336e90828041687642cd972a047f77cb3610f58a9c3a4f4
+Description: OpenSSL tools
+Name: OpenSSL
+
+Package: org.coolstar.cctools
+Architecture: iphoneos-arm
+Version: 895
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 11712
+Provides: odcctools
+Depends: openssl, uuid, org.coolstar.ld64
+Conflicts: odcctools
+Filename: ./debs/org.coolstar.cctools_895_iphoneos-arm.deb
+Size: 1288458
+MD5sum: 38f20640869ae66dd14c3b6992fd9379
+SHA1: 78dd7b91dfc8ef47c493d5b5c674dd612247c79d
+SHA256: 09debe36e1d3655a8504492d3a3b949a622291f5d9ae781089e1264123f88e24
+SHA512: 2927daf264794f26ed31fbf4b0f0fe37f9ff9c346c2be1758267d08ddc7e55448cf465a744f94ed6549f6d075937fb690b3e482b785ddebe09c82ab7c7a95b5f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cctoolsDp
+Description: tools to work with mach-o files
+Tag: purpose::console
+Name: Darwin CC Tools
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cctoolsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CoolStar <coolstarorganization@gmail.com>
+dev: coolstar
+
+Package: org.coolstar.iostoolchain
+Architecture: iphoneos-arm
+Version: 6.1-1
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 4622
+Depends: org.coolstar.llvm-clang, org.coolstar.ld64, org.coolstar.cctools, make, ldid
+Filename: ./debs/org.coolstar.iostoolchain_6.1-1_iphoneos-arm.deb
+Size: 782
+MD5sum: 2b5d8540cd28039855dfb990f7159908
+SHA1: d26d07fb8df79382a72f0cdf3b5f115bfdf00411
+SHA256: 8b7d41052c5069a8a425c95168ecbb95b66633613749d9c32e0254fd1995e379
+SHA512: 9dffb1c875ae662b30ceb2a8a1e1e1b5468dbcbcfd17dcdabf4806f1f7901d86a938e854d4a73125bfaac7f24457a20a3ea186a07a0c48ee2e1407d1f30287cc
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iostoolchainDp
+Description: LLVM+Clang, ld64, CC tools, Make, ldid
+Tag: purpose::console
+Name: iOS Toolchain
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iostoolchainDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CoolStar <coolstarorganization@gmail.com>
+dev: coolstar
+
+Package: org.coolstar.ld64
+Architecture: iphoneos-arm
+Version: 274.2
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 8112
+Depends: firmware (>= 5.0)
+Filename: ./debs/org.coolstar.ld64_274.2_iphoneos-arm.deb
+Size: 1518226
+MD5sum: f803d5a5877a0f173f086e20d8918c17
+SHA1: b3a8a18ef180367dd2d3f5210c75a198972c6ce4
+SHA256: dccc86ea4fbda4bf2c9a267257617088fc5f57925313549cb20947daa82f613c
+SHA512: e870e44c7709e4bc56980ba910782b8ef709e4c6c21c2fb2c7e977051460e30b00d9e99f4e0e2c63c99d39c2a1cae583d0d5b619e5324ab5edfe3bdd3a8dbdf4
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ld64Dp
+Description: linker for building on iOS
+Tag: purpose::console
+Name: LD64
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ld64Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CoolStar <coolstarorganization@gmail.com>
+dev: coolstar
+
+Package: org.coolstar.llvm-clang64
+Architecture: iphoneos-arm
+Version: 5.0.1-2
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 541112
+Depends: firmware (>= 9.0), cy+cpu.arm64
+Breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
+Replaces: org.coolstar.llvm-clang (<< 3.7.1-1)
+Filename: ./debs/org.coolstar.llvm-clang64_5.0.1-2_iphoneos-arm.deb
+Size: 49451386
+MD5sum: aa8ad0acd7be97390918e7d495facc91
+SHA1: a54e9ec75a06ba23424b64e6f9a36f1a6d5fa0f3
+SHA256: 3f8ca53ff4cc6ddf7a621d67780dd4b348c1d4eee6455a729b1ac52524716689
+SHA512: dcc0bf0053ee172d18d1e13748ba8f9879d52841d56121d67642261263b78285fe42389c59597a7d9d8fcffee5e2362062837358eec159e964fcff8670496c67
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
+Description: LLVM, Clang, and LLD 5.0.1 for iOS/arm64
+Tag: purpose::console, cydia::obsolete
+Name: LLVM+Clang (64 Bit)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CoolStar <coolstarorganization@gmail.com>
+dev: coolstar
+
+Package: org.coolstar.llvm-clang
+Architecture: iphoneos-arm
+Version: 3.7.1-1
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 521112
+Depends: firmware (>= 5.0), firmware(<< 9.0) | org.coolstar.llvm-clang64, firmware(>= 9.0) | org.coolstar.llvm-clang32, cy+cpu.arm64 | org.coolstar.llvm-clang32
+Filename: ./debs/org.coolstar.llvm-clang_3.7.1-1_iphoneos-arm.deb
+Size: 828
+MD5sum: 4d145f0eb8ef23d17a05eb5a2cdef383
+SHA1: dd195f75c2dcb9a0e0c5ba92153d672db0512a3e
+SHA256: fd85c989a76c2f3862ff2ea8358fab0817070355e927d2a9c83f21c9d428d5e2
+SHA512: dcfece1886f28fbba24bf1af6f5003835534866896a249b6cf9c25c810c7a94600e879ac9b3f64143b7affad85449b2af86b0d241b2635bda5ee47ad4efbd861
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
+Description: LLVM, Clang, and Compiler for 32/64Bit devices
+Tag: purpose::console
+Name: LLVM+Clang
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CoolStar <coolstarorganization@gmail.com>
+dev: coolstar
+
+Package: org.theos.dependencies
+Architecture: iphoneos-arm
+Version: 0.0.4
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5
+Depends: git, grep, dpkg, coreutils, rsync, org.thebigboss.cacerts, org.coolstar.iostoolchain, firmware (>= 11) | org.coolstar.perl, firmware (<< 11) | perl, unzip
+Filename: ./debs/org.theos.dependencies_0.0.4_iphoneos-arm.deb
+Size: 940
+MD5sum: 557e845a6bd683680af510484333141b
+SHA1: 0e21b7ce1f49ed158898909c2311fdc5d63529ef
+SHA256: 4ba8dc1feef73d7938dd413e70d1760dfe247fb2da157af8b59bff4cf5f33926
+SHA512: a538633ac904f6429bfb90a5330a61ffaea37558ccc50096b7a0578e4e3eb397c23418c99b08191391b0613e634181b01ac84396b71caeb4d7c52aaff42c63dc
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosdependenciesDp
+Description: What Theos needs.
+ Add coolstar's repository before installing this package https://coolstar.org/publicrepo/
+ Add sbingner's repository before installing this package https://repo.bingner.com/
+ This metapackage installs git, grep, dpkg, coreutils, rsync, CA Certs, perl and iOS Toolchain in one go.
+Tag: purpose::console, role::hacker
+Name: Theos Dependencies
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosdependenciesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: uroboro <uroboro.845@gmail.com>
+dev: uroboro
+
+Package: perl
+Architecture: iphoneos-arm
+Version: 5.28.0-2
+Priority: optional
+Section: Scripting
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 107632
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/perl_5.28.0-2_iphoneos-arm.deb
+Size: 7977332
+MD5sum: de1adbdbd185420a3260faa6c3726019
+SHA1: 97e5a10d9530183f4eb01f3342448a066af37ac4
+SHA256: 3da2159f689f6c756fe31dc1eec8feb9165cd04025f62a418f5421b8e8ffb621
+SHA512: dc65e204ba2eb21697d581a50f48edef4b4b5c4a00b4a1a02b1f5da308ea10adde3b107d8373af1c87f6e35cb74a933679a9f819381364632f4330d5a43db234
+Description: awesome combination of sed and awk
+Name: Perl
+
+Package: python3.7
+Architecture: iphoneos-arm
+Version: 3.7.3-1
+Priority: optional
+Section: Scripting
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Installed-Size: 256
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libpython3.7
+Filename: ./debs/python3.7_3.7.3-1_iphoneos-arm.deb
+Size: 3360
+MD5sum: 9c36acee5c044e39a40fce30f73d442e
+SHA1: 161eb1b430b5e246177298f41ac809135cd6a1b7
+SHA256: 75abb651da2204cb5e53e00cd19921196297333d2b7c9bf1b0ab6011657fbe91
+SHA512: 6dbb145abcf8a9610f84296f466201fa843c6b130075d185d2be2e921cc0e0e9da064ac1547faa4caa5f6af7719c406d359c99222d42e7769b0c7d8757b67ff1
+Description: Interpreted, interactive, object-oriendted programming language.
+Name: Python 3.7
+
+Package: python3
+Architecture: iphoneos-arm
+Version: 3.7.3-1
+Priority: optional
+Section: Scripting
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 8
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: python3.7
+Filename: ./debs/python3_3.7.3-1_iphoneos-arm.deb
+Size: 636
+MD5sum: 1c202bc36a51766bbdca6ff6fdf30735
+SHA1: 5fc43bd9963f1a559a5fe6a4340f4801ce0e5d0e
+SHA256: f619589dbc931ed6b6e85192f8b80101a6142628e07321a3cff2db60a6c4e025
+SHA512: 70402d9bde6de11c99b165c45fdf38e4b927a69411c7d74264272d49fb4039909383ad37cebb10c550599aa965df019ea142511810063f7d34862cde0d095949
+Description: Interpreted, interactive, object-oriendted programming language.
+Name: Python 3
+
+Package: rsync
+Architecture: iphoneos-arm
+Version: 3.1.3-2
+Priority: important
+Section: Networking
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1056
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/rsync_3.1.3-2_iphoneos-arm.deb
+Size: 204536
+MD5sum: b2dd5ce3b38d3dda17367f88d7e37b2d
+SHA1: 7caf0f654bbb562baba0bc8100c38b55ae29fbf8
+SHA256: 7b9442cc2b4b633103437f9eb2293d3d2aade68a836f808aea9aa2fb143ce69b
+SHA512: 57c6f8dada6f1f50ee25d80ce19e8c6198f4765ec06c7a183e5d0e43313c7dcb1278c04b5d3daaaefea35a333e5272c1486ccc9e19d8687f0e7c51a228aebcfd
+Homepage: http://www.samba.org/rsync/
+Description: synchronize files between computers
+
+Package: uuid
+Architecture: iphoneos-arm
+Version: 1.6.2-1
+Priority: important
+Section: System
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 384
+Filename: ./debs/uuid_1.6.2-1_iphoneos-arm.deb
+Size: 24492
+MD5sum: 38330da694cb92480d0c7b3d50f4cb34
+SHA1: c2bdde800a4b0f485a03724d3b8f62e5c19756f6
+SHA256: f79735a20b26ee5a0bdd8e8856745f435aea271235dc22598efd40a0049c79d0
+SHA512: be8eb5aa93d655ff26fe887bf202bd4fd3e9bec4eb173f2156fbc3e1400662a2999b49e2c48f032ef36d5d1f9b729478a17b8fc364d0890a9fea575197b8b0ea
+Description: universally unique identifiers
+Name: UUID Generator
 
 Package: ws.dl.newterm2
 Architecture: iphoneos-arm
