@@ -105,16 +105,15 @@ Section: Tweaks
 Maintainer: DL
 Depends: mobilesubstrate, jp.soh.ct
 Filename: ./debs/com.dl.CPUToolVH_2.0_iphoneos-arm.deb
-Size: 2284
-MD5sum: 86207e10b637cdc798c185ba31584248
-SHA1: 3b9c6503659598fbc357cdc174d9a3b190602bfa
-SHA256: a6153099a3bfd209e2352c59f21e86ba1c96e114d6e55471e08c01811c1890c5
-SHA512: 8913ffa616db80221f939aec2e05d96c354fa25a4ba8548fc260f124e9de8dae81c51fe1870fba362abd72a90f2d0da012dff7382d94268bd2bb381f6953ca66
+Size: 2238
+MD5sum: 1b632ea6a2adbb426146fac0af0d46ee
+SHA1: 7e053275443771de1bcf8590368b07db05f6320a
+SHA256: b2eddbaa0a0686306e64e147e74885e21b28c21c1795e3c9a7f7c68cd0a2f8c3
+SHA512: bc7a0a7e3dce44297d6e37b85cbb4fbfe8904095da405b8c413ca72502b720e6851e1a7e20dfadb06d071482666d4f0a1e3f9ddd630756cc7f18bf44ed3e648a
 Description: Gói tiếng việt dành cho CPUTool
 Name: CPUTool (Gói tiếng Việt)
 Author: Hoàng Đình Phong
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.dl.VipForYT
 Architecture: iphoneos-arm
@@ -783,6 +782,28 @@ Author: Kabir Oberai <support@kabiroberai.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: kabiroberai
 
+Package: com.modmyi.libswift4
+Architecture: iphoneos-arm
+Version: 4.2.1-2
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 170711
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.modmyi.libswift4_4.2.1-2_iphoneos-arm.deb
+Size: 18773744
+MD5sum: 0e9aed2309f4121b8beb3a9ebe2b8e6b
+SHA1: ec5f1cd478c8b2dc0a8232a86233458da65e4450
+SHA256: 1175b9f29d2959e41989f75bce90166a3f6e49729e0deb7f71c5a48530771711
+SHA512: 73eb0cd18846a27ed32dcf41b3a5354cbd50e7c31a4fed00e69010e7d4f815a5485efef24892b06c8dbd0dad9d1636f8a6db5ade028c8caf26f97644c890c12f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswift4Dp
+Description: libswift dylibs for iOS
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Name: libswift4
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswift4Dp
+Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: kabiroberai
+
 Package: com.opa334.ccsupport
 Architecture: iphoneos-arm
 Version: 1.3.7
@@ -808,6 +829,29 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportD
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 
+Package: com.randy420.tai
+Architecture: iphoneos-arm
+Version: 5.1.8
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 475
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, com.randy420.tools (>= 2.1), mterminal, com.kabiroberai.swift-toolchain, openssl, com.opa334.ccsupport
+Conflicts: net.howett.theos, com.randy420.encrypt
+Filename: ./debs/com.randy420.tai_5.1.8_iphoneos-arm.deb
+Size: 39142
+MD5sum: 40c1ecd28c22c1f6ffebfb3a9f0438cd
+SHA1: 4192fc46278895d15c827d5eceb4c1272523e630
+SHA256: ac7fef04a7fde0295b6c54d6210dae3327cec45f928e9690afa9f27db9449a1c
+SHA512: a197923711bf83cddbb0dfcc26c8b9626cfdbfdafc7e1b47cd661e0f6ef6d7c52de9c363f2df8493b8430bc3d3dcd24bc6b0e591401c7c47ed904c000d8c9cfc
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
+Description: Install theos and setup everything you need with 1 simple command
+Tag: purpose::console
+Author: Randy420 <randy.skinner28@outlook.com>
+Name: Theos Auto Installer
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: randy420
+
 Package: com.randy420.tools
 Architecture: iphoneos-arm
 Version: 2.1
@@ -829,6 +873,28 @@ Name: 420 Tools
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: randy420
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.0.10~beta1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.10~beta1_iphoneos-arm.deb
+Size: 38344
+MD5sum: b52417e29631c59cdb267379e71e2a69
+SHA1: 5839fce38b27e624ab5629d50fd543f30b473615
+SHA256: d06e18eefbfcb40f3e3b215bfbccaf34091fb30b2ccb1e4f6c519aa91d2b7248
+SHA512: 42b13ee05ce8766a02c3dc4779752c97a2bd379690c928101cc590a3204af7f322051badf1e810faf4ab2c0520d00abc1df8e4aea86473b2f7b69c213c900d8e
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
 
 Package: com.thearmking.akiap
 Architecture: iphoneos-arm
@@ -1392,6 +1458,27 @@ SHA512: 20f390b67a6ed97172cfebf97aa206f9ff278b70bb234233978b21d21b0205ab14667a75
 Description: dependency-based build environments
 Name: Make
 
+Package: mterminal
+Architecture: iphoneos-arm
+Version: 1.4-6
+Priority: standard
+Section: Utilities
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 776
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: ./debs/mterminal_1.4-6_iphoneos-arm.deb
+Size: 108042
+MD5sum: dedfc589450b43d268bfc369d5b2f4c8
+SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
+SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
+SHA512: 136852a83a961079f385ca161fe23300ba7ce632343020e3592effde40f74758ab7e6c9d0c134b3e52b14f79ff3a959b363b620e7f0284724fd4cabf39267360
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Description: A MobileTerminal fork
+Name: MTerminal
+Author: lordscotland <admin@officialscheduler.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+
 Package: net.dl.appsyncunified
 Architecture: iphoneos-arm
 Version: 104.0
@@ -1624,6 +1711,29 @@ Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Support: https://hashbang.productions/support/
+
+Package: ws.hbang.common
+Architecture: iphoneos-arm
+Version: 1.14
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1430
+Depends: preferenceloader, mobilesubstrate, com.rpetrich.rocketbootstrap, firmware (>= 13.0) | jp.ashikase.techsupport
+Filename: ./debs/ws.hbang.common_1.14_iphoneos-arm.deb
+Size: 177316
+MD5sum: 253c7e46e67344ccd669d28c1c832c63
+SHA1: fc2a491a61ba9160bec39fc11d0e8826c4ebc71b
+SHA256: be57913670d797137c7c8ef980cc1bfe9bbd2b8b02d3598d63215d83fc42014b
+SHA512: 8a6259c2567b46ad426c915d2e7e23ce6724410b4ea9c4931381d4485f7e0583df277e74104ed1fa08b8a450907c0c74e1b546f6f684e9d012f2234404e833ae
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hashbangcommonDp
+Description: Support library for tweaks
+Tag: purpose::extension, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: Cephei
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hashbangcommonDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: HASHBANG Productions <support@hbang.ws>
+dev: hbang
 
 Package: xar
 Architecture: iphoneos-arm
