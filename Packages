@@ -171,26 +171,6 @@ Name: Video Ad Speed Việt Hóa
 dev: lenglengyu
 Icon: file:///Library/PreferenceBundles/adsspeed.bundle/icon@2x.png
 
-Package: com.dl.altlist
-Architecture: iphoneos-arm
-Version: 1.0.7
-Section: Development
-Maintainer: DL
-Installed-Size: 305
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.dl.altlist_1.0.7_iphoneos-arm.deb
-Size: 73064
-MD5sum: 15dd816fd58b99e1ab632130d5bc06f0
-SHA1: e041b491d7674ca727e0d3d9efca9b444829daf5
-SHA256: 05f80c4e5ee73fd3175309e237d21af162c4f9413fe16ea4b19ffd773ce72f66
-SHA512: d12c58fa9f84ffe20afd08001b6436620848c8c4198f41d10d7074fd548fd2129339e7467f14a4a3f26ebc4ccd9f82b73cdcd2602ec84ff5aceead2d931aeb6a
-Description: Một ứng dụng thay thế AppList hiện đại
-Tag: purpose::library
-Author: opa334 <opa334@protonmail.com>
-Name: AltList
-Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
-dev: opa334
-
 Package: com.dl.altstore
 Architecture: iphoneos-arm
 Version: 1.4
@@ -1539,32 +1519,6 @@ SHA256: 32343b28cfc7182c472e4e791646f8aa75573f692d8a38ab02b857ad389a46ec
 SHA512: bb9c4a898660ed1482ebab275c20fdc95ea1b13c3e4245f20e41fe11de5db494f8570fc4b0066b042336e90828041687642cd972a047f77cb3610f58a9c3a4f4
 Description: OpenSSL tools
 Name: OpenSSL
-
-Package: org.theos.dependencies
-Architecture: iphoneos-arm
-Version: 0.0.4
-Priority: optional
-Section: Development
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 5
-Depends: git, grep, dpkg, coreutils, rsync, org.thebigboss.cacerts, org.coolstar.iostoolchain, firmware (>= 11) | org.coolstar.perl, firmware (<< 11) | perl, unzip
-Filename: ./debs/org.theos.dependencies_0.0.4_iphoneos-arm.deb
-Size: 940
-MD5sum: 557e845a6bd683680af510484333141b
-SHA1: 0e21b7ce1f49ed158898909c2311fdc5d63529ef
-SHA256: 4ba8dc1feef73d7938dd413e70d1760dfe247fb2da157af8b59bff4cf5f33926
-SHA512: a538633ac904f6429bfb90a5330a61ffaea37558ccc50096b7a0578e4e3eb397c23418c99b08191391b0613e634181b01ac84396b71caeb4d7c52aaff42c63dc
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosdependenciesDp
-Description: What Theos needs.
- Add coolstar's repository before installing this package https://coolstar.org/publicrepo/
- Add sbingner's repository before installing this package https://repo.bingner.com/
- This metapackage installs git, grep, dpkg, coreutils, rsync, CA Certs, perl and iOS Toolchain in one go.
-Tag: purpose::console, role::hacker
-Name: Theos Dependencies
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosdependenciesDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: uroboro <uroboro.845@gmail.com>
-dev: uroboro
 
 Package: perl
 Architecture: iphoneos-arm
