@@ -1007,6 +1007,23 @@ Description: flexible multi-protocol file transfers
 Name: cURL
 
 Package: cydia.com.ipc.crackerxi
+Architecture: com.dl.crackerxi
+Version: 1.1.16
+Section: System
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/cydia.com.ipc.crackerxi_1.1.16_com.dl.crackerxi.deb
+Size: 9960246
+MD5sum: b623e7eda56138b6a4eb7dbdeb66ecde
+SHA1: 8b82d34d08719c6c392e5d22f195919197fbc1cb
+SHA256: 41153cfe1675ba663f5aaa94a0fee5b58298f0571ee20c3eccd5eef5aa3ccbd4
+SHA512: 16117760d78471f1341a1eba288c6fb3abc533b942efbb10032c6edce861f79627bfd657db5510d24b5dbfd9c0a5be46151664064012ebcec1378e5d9f3af44d
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+Website: https://ipastore.me
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+
+Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
 Section: Tweaks
