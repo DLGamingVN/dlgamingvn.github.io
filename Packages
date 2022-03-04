@@ -740,6 +740,137 @@ Name: iGameGod
 Author: iGameGod
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.haoict.camerashuttersounddisabler
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 0
+Depends: mobilesubstrate
+Filename: ./debs/com.haoict.camerashuttersounddisabler_0.1.0_iphoneos-arm.deb
+Size: 1154
+MD5sum: 1187cb442ca3f53595b8f22dc4cbc2b2
+SHA1: 7b74e7d9bde28c7371c9a97adda78ca25c782588
+SHA256: c94104a64a3ef4b6f0a4d3fcadc41b57a410c3e13a9da73cc1b91678dad70fb3
+SHA512: a7a51c60b67d2c799205833885081f38d00a66f0b00bae03988897c34d70439cbc62029ac873178346b95f988476b0a8e8b6794b698c0c89106e4bcc0f612b2c
+Description: Camera Shutter Sound Disabler
+ Camera Shutter Sound Disabler
+ Support iOS 12 - 14
+ Change log:
+ - v0.1.0: Use bash, add disable camera_shutter_burst
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Camera Shutter Sound Disabler
+Author: Hao Nguyen
+
+Package: com.haoict.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debs/com.haoict.facebooknoads_1.4.1_iphoneos-arm.deb
+Size: 254880
+MD5sum: 6692ed5e700ff7a69b550e66ace1300c
+SHA1: b0cc88c1f168cc4560e8e20e75b57a33348cfbbb
+SHA256: cb1b066c08fb4c1403b5f3f83e7c2ea5222ec7738e327eecb6be2ffa0d63cf2f
+SHA512: 48b2e82279755cc7f19f2343ca7ae45432372212a53613110949f9922c85312c1872b7eef1333cead666c16f82bf95ec7139c864d25e9722c8306a91603db41d
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 12-14
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 307.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Facebook No Ads
+Author: Hao Nguyen
+
+Package: com.haoict.messengernoads
+Architecture: iphoneos-arm
+Version: 3.10.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 972
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debs/com.haoict.messengernoads_3.10.0_iphoneos-arm.deb
+Size: 538742
+MD5sum: be67c36dd972bee2f1f4368ac325f88c
+SHA1: bb28976111604e346e669aaf4325630fca6d46b8
+SHA256: 5498ac1f9a099e8cb919a2801f78c1e895b561b24b90432dfc00adb921a6728e
+SHA512: f2a1f2e017f0861b084482ddc5af0f196a7c6b4a8ee89598f010de46988b1ddff38614d22c7cb7b6bd32edf08fd189d23847ac3cd20aebc593bf0a789f87f7e6
+Description: The best tweak for Messenger app.
+ The best tweak for Messenger app.
+ Change log: https://github.com/haoict/messenger-no-ads/releases
+ . 
+ Features:
+ - Hide Ads on Messenger app
+ - Disable Read Receipt
+ - Disable Typing Indicator
+ - Disable Story Seen Receipt
+ - Can Save Friend's Story
+ - Hide Search Bar, Stories row, People tab
+ - Hide Suggested Contact in Search
+ - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
+ - Support iOS 12 - iOS 14
+ - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 300.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Messenger No Ads
+Author: Hao Nguyen
+
+Package: com.haoict.tiktokgod
+Architecture: iphoneos-arm
+Version: 3.0.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 416
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debs/com.haoict.tiktokgod_3.0.0_iphoneos-arm.deb
+Size: 50486
+MD5sum: 2a8c21b0eb33c14a4d663df900cb3952
+SHA1: 84894eb6f5fb00f38b6f3e833660bfa48e5a39b9
+SHA256: 1d4371746ad8433aee0db866cecfdc9126e0392948745248de8b3a9e627c6eee
+SHA512: 4d5fed1575a6a60ef352e1223e4286bcc8cbcce8567fd63dd5a81702cfc1a3998b18aa864c6006dc2396b831c548fcc15a17adf15e0e765bfc29b35de4c73cb1
+Description: The best tweak for TikTok app.
+ The best tweak for TikTok app.
+ Change log: https://github.com/haoict/tiktok-god/releases
+ . 
+ Features:
+ - Remove Ads
+ - Download without watermark
+ - Auto scroll to next video
+ - Change Region (may not work for iPad and some devices)
+ - Show progress bar (for fast forward or rewind video)
+ - Can hide UI (view video in full screen)
+ - Bypass jailbreak detection (make like and follow work)
+ - Support iOS 12 - 14 & latest TikTok version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: TikTok God
+Author: Hao Nguyen
+
 Package: com.kabiroberai.swift-toolchain
 Architecture: iphoneos-arm
 Version: 4.0.3-1
@@ -1009,18 +1140,18 @@ Name: cURL
 Package: cydia.com.ipc.crackerxi
 Architecture: com.dl.crackerxi
 Version: 1.1.16
-Section: System
-Maintainer: c0pyn1nja
+Section: Tweaks
+Maintainer: DL
 Depends: firmware (>= 11.0)
 Filename: ./debs/cydia.com.ipc.crackerxi_1.1.16_com.dl.crackerxi.deb
-Size: 9960246
-MD5sum: b623e7eda56138b6a4eb7dbdeb66ecde
-SHA1: 8b82d34d08719c6c392e5d22f195919197fbc1cb
-SHA256: 41153cfe1675ba663f5aaa94a0fee5b58298f0571ee20c3eccd5eef5aa3ccbd4
-SHA512: 16117760d78471f1341a1eba288c6fb3abc533b942efbb10032c6edce861f79627bfd657db5510d24b5dbfd9c0a5be46151664064012ebcec1378e5d9f3af44d
+Size: 9960266
+MD5sum: e583f3e7d16b54970cd204cb9aa312ff
+SHA1: 2ab8c047161f2c806b2920d73e88e99bd92631f3
+SHA256: e6aebb318492122a848f425c72d747203a603867b4bdb5c45a7de3e053738dff
+SHA512: 3d94e78cdfe05fa67b3fafe5a1506978408f117b95a739f32bfa25b36db2b482c4b8d723f43e604336754b885a31e3c975cbd78e083b310904bded10f5f06eba
 Description: Decrypts iOS Apps
 Name: CrackerXI+
-Website: https://ipastore.me
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
 Package: cydia.com.ipc.crackerxi
