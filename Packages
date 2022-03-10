@@ -262,6 +262,25 @@ Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Name: DLGMemor Injected
 Author: AnonymousxiosdeV
 
+Package: com.dl.ffHack0
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DLGamingVN
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.ffHack0_1.0_iphoneos-arm.deb
+Size: 26978
+MD5sum: ff81cfff717b72dc8a2d21076dc3ab82
+SHA1: 89087d540f7b321a3f4a1ad6d87061b9d5ec7421
+SHA256: 2e4df9ff1e47bb01146808b5d4a44260a986429841d6bf3e6e2dc8c1cd58f118
+SHA512: 60ec6303fefee82519260d7c610b00bd812539e22c537b2bd25957ee75d15d5f4637638ea4112e128ed7ffb45c70bcc99c1609b682881d206105bec72b930545
+Description: Hack Antena và Leo Tường Free Fire - Mod By DL
+Name: Hack Free Fire Antena - Climb Wall By DLGamingVN
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Author: DL
+
 Package: com.dl.ffchams
 Architecture: iphoneos-arm
 Version: 1.0
@@ -511,6 +530,24 @@ Name: Hack Pubg Wall 2 Nút
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Author: DL
+
+Package: com.dl.showtouch
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 388
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.dl.showtouch_1.0.4_iphoneos-arm.deb
+Size: 106524
+MD5sum: 5b93eb912210672811d69ada5fd24c2a
+SHA1: 5604925b50800a25dee9a8a9b6d948731ef67a2c
+SHA256: cf5656ead0f431effdadea1f505670852c8a2de61b45107c2d1a7127e6fc66e2
+SHA512: 0acba74079419fc94c9ea8d7fd43fd1bf26456ef9115f2afc284d6d2f447fc6a7f2ba91779f5b68c3a93a71a93593cc64e4b904188efcd2bcef7adb4eae4fca0
+Description: Hiển thị nơi bạn chạm trên màn hình.
+Name: ShowTouch
+Author: LonestarX
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.dl.slidersmall
 Architecture: iphoneos-arm
