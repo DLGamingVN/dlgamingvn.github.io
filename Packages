@@ -477,6 +477,26 @@ Author: julioverne
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
+Package: com.dl.newterm2
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Terminal
+Maintainer: DL
+Installed-Size: 6792
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./debs/com.dl.newterm2_2.5_iphoneos-arm.deb
+Size: 3201712
+MD5sum: ae2b51b50d9e8b6353835fdf52b01436
+SHA1: 885ef633374a51ec7f0e4a9e63e3e1e1ecd8a9ac
+SHA256: 64be0fde27af0f7e256043cb8e7b4175036b1e5cd77a61652b625e5292b38201
+SHA512: 03427bbf0cc1fa60aa88aeef4af5ce2ce11362b01b9a727577a0b62dc2961043f78400423b5d45730022cf377258f9b55efbb3d165915128a3cb5881b125ee74
+Description: A powerful terminal app for iOS
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: NewTerm2 IOS 14
+Author: HASHBANG Productions <support@hbang.ws>
+
 Package: com.dl.picsarthack
 Architecture: iphoneos-arm
 Version: 0.0.2
