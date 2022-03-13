@@ -797,6 +797,24 @@ Name: iGameGod
 Author: iGameGod
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.giatoc.dl
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DL
+Installed-Size: 656
+Depends: mobilesubstrate
+Filename: ./debs/com.giatoc.dl_1.0_iphoneos-arm.deb
+Size: 334064
+MD5sum: 0d6de12ebbbc2d35a3500d195c22ab48
+SHA1: b42431e89af3a0f460742289d96f71f9b0cc1d29
+SHA256: 46962be7144eea4c32e045c766daa17f6ec3fbabb90a81ee2c087e52b6232aa6
+SHA512: 5db682da7b99db0977ed31fdf0201018b3a6af8b9c628f3a66d1dfba792b01b83d54f2ae823d95091ee6105087c80f78ca9029017f1b90f8ad2b1d385593d809
+Name: Hack Gia Tộc Huyền Thoại
+Author: esp
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
 Package: com.haoict.camerashuttersounddisabler
 Architecture: iphoneos-arm
 Version: 0.1.0
