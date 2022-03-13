@@ -805,11 +805,11 @@ Maintainer: DL
 Installed-Size: 656
 Depends: mobilesubstrate
 Filename: ./debs/com.giatoc.dl_1.0_iphoneos-arm.deb
-Size: 334064
-MD5sum: 0d6de12ebbbc2d35a3500d195c22ab48
-SHA1: b42431e89af3a0f460742289d96f71f9b0cc1d29
-SHA256: 46962be7144eea4c32e045c766daa17f6ec3fbabb90a81ee2c087e52b6232aa6
-SHA512: 5db682da7b99db0977ed31fdf0201018b3a6af8b9c628f3a66d1dfba792b01b83d54f2ae823d95091ee6105087c80f78ca9029017f1b90f8ad2b1d385593d809
+Size: 334076
+MD5sum: ff00f44a80291aa7fe3c358fc473fb20
+SHA1: 75c17f11dc5c147e3d8d30905fe214e383ae632e
+SHA256: e6b0846e1378d1979a32902f37d43d622529fca2ac0482018b7335f5dfd98313
+SHA512: b5981a0f45ef76dc32cafe1a8bea32630fa036c1fffdc751281de641506a60c3ec3d87f1f943870be01005b610b8891eeb809a832cc7da250c004513d3e33beb
 Name: Hack Gia Tộc Huyền Thoại
 Author: esp
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
