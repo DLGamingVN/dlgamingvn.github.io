@@ -1661,6 +1661,26 @@ SHA512: 20f390b67a6ed97172cfebf97aa206f9ff278b70bb234233978b21d21b0205ab14667a75
 Description: dependency-based build environments
 Name: Make
 
+Package: menu.criops.mobile
+Architecture: iphoneos-arm
+Version: 1.31.2
+Section: Hacks
+Maintainer: Ngọc Bằng
+Installed-Size: 712
+Depends: mobilesubstrate
+Filename: ./debs/menu.criops.mobile_1.31.2_iphoneos-arm.deb
+Size: 420558
+MD5sum: 0903128aed2bafd73d36a462113f0844
+SHA1: 99b048dc73016b852e7a3f68874a633f99651df2
+SHA256: f49876553c8c6b908879cb8d7328e76662dcb884bcb36d920ab94753d2b88d17
+SHA512: ad554e21af42cef29a9a1c40c665eb7157d6d3b18ea96c863dc4acc7096b5065e57acefafe0a098d03adc15e796faf481f9ff13997c5b5070047fc6fabac9746
+Homepage: zalo.me/ngocbangg
+Description: CriticalOps Mod Menu by Ngọc Bằng
+Name: CriticalOps Mod Menu
+Author: Ngọc Bằng
+Depiction: https://dlgamingvn.blogspot.com/
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
 Package: mterminal
 Architecture: iphoneos-arm
 Version: 1.4-6
