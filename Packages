@@ -1668,7 +1668,7 @@ Section: Hacks
 Maintainer: Ngọc Bằng
 Installed-Size: 712
 Depends: mobilesubstrate
-Filename: ./debs/menu.criops.mobile_1.31.2_iphoneos-arm.deb
+Filename: ./debs/menu.criops.mobile_1.31.2.deb
 Size: 420558
 MD5sum: 0903128aed2bafd73d36a462113f0844
 SHA1: 99b048dc73016b852e7a3f68874a633f99651df2
