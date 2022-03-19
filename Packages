@@ -262,6 +262,25 @@ Name: Bypass MBBank
 Author: iPALibrary
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.dl.codmvn
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DLGamingVN
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.codmvn_1.0_iphoneos-arm.deb
+Size: 28724
+MD5sum: 75f5c3800432ab53acb48a5a3ed043cc
+SHA1: f05e60a9e24cee1d1edccf21c00816466e5a09e4
+SHA256: bb66b4ffcbcd450de551a3bcc77639bc96d187f3037db29282635e2019d5c0a7
+SHA512: 721dfcb52f825025509ea2ce56acf7b22d238f330f88857105fa48624d3b8c23e8640e7bd9f46bb64f0d4b45626ea16eb93645f9adafacb42533a7415b72c442
+Description: Mod Menu By DLGamingVN
+Name: Hack Call of Duty Mobile VN By DLGamingVN
+Author: DL
+Depiction: https://dlgamingvn.blogspot.com/
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
 Package: com.dl.dlgmemorinjected
 Architecture: iphoneos-arm
 Version: 3.0
@@ -315,6 +334,25 @@ SHA512: 0973d9ccf08aa50f28f5f7d706087b7db207a0c43ce7a00afbd07189a5012af9e59fff48
 Name: Hack Free Fire Chams All Version
 Author: 000
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
+Package: com.dl.ffiosDL
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DLGamingVN
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.ffiosDL_1.0_iphoneos-arm.deb
+Size: 32046
+MD5sum: dc159ea0061dd97e80ef4c4f33de89a4
+SHA1: 363d1986072b7d8edcb99e81956d14139fc046f5
+SHA256: f41e421290f42c30fc90b08b892f3d6a13bd34816873f1f3fbbdef15146fc069
+SHA512: 3751a4e6b5960f2ee3b3086b4d6351c49c89cfc125c32e105ccf66db8b5964df16e0130febf228570f1744b231cb0cb647a7052b4dc19b441fb4681def808f68
+Description: Mod Menu By DLGamingVN
+Name: Hack Garena Free Fire By DLGamingVN
+Author: DL
+Depiction: https://dlgamingvn.blogspot.com/
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
 Package: com.dl.frontpage
