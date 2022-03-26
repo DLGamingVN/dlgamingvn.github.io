@@ -590,6 +590,25 @@ Tag: purpose::extension, compatible_max::ios12.2
 Name: PicsArt Hack
 Author: DL
 
+Package: com.dl.pubg6271
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DL
+Installed-Size: 100kb
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.pubg6271_1.0_iphoneos-arm.deb
+Size: 811124
+MD5sum: 42ed126a431f355565fa11b4d68ef54c
+SHA1: 374eed5adc864994433afb0f8d9a84307246277f
+SHA256: 5dea982bce9067b2cd0059ab6d23e893d003220e6b5f87c63f12f8301a161cf4
+SHA512: 019b982902567cf4da3b2cd6c778716d61b7aee3281218705f52fef3c6b115b80143bd8e1f882470517cca397217461bf618e4e289aebe58e0ac041384575d18
+Description: Wall 2 nút
+Name: Hack Pubg wall 2 nút
+Author: bonios
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
 Package: com.dl.pubgvn3nut
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1021,6 +1040,40 @@ Description: The best tweak for TikTok app.
 Name: TikTok God
 Author: Hao Nguyen
 
+Package: com.haoict.tiktokgod
+Architecture: iphoneos-arm
+Version: 4.0.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debs/com.haoict.tiktokgod_4.0.0_iphoneos-arm.deb
+Size: 53932
+MD5sum: 7dfd37e996736671ea27be89a5be1dfc
+SHA1: 6bdc4c1b0c0b9524667a687358be0b7bcead5271
+SHA256: df6c21ba3e5d94cc4e423d1f5fe774b719185219618b25c29802cb7fcd1a6392
+SHA512: 1e37748d63a226341c18b28fe0218eac90aae070ffba7e8708af28a168c9cd98d57c8149faa657b567f4fbd3e65036c1f4be95188f9d404e21a39af453d34860
+Description: The best tweak for TikTok app.
+ The best tweak for TikTok app.
+ Change log: https://github.com/haoict/tiktok-god/releases
+ . 
+ Features:
+ - Remove Ads
+ - Download without watermark
+ - Auto scroll to next video
+ - Change Region (may not work for iPad and some devices)
+ - Show progress bar (for fast forward or rewind video)
+ - Can hide UI (view video in full screen)
+ - Bypass jailbreak detection (make like and follow work)
+ - Support iOS 12 - 14 & latest TikTok version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: TikTok God
+Author: Hao Nguyen
+
 Package: com.kabiroberai.swift-toolchain
 Architecture: iphoneos-arm
 Version: 4.0.3-1
@@ -1394,6 +1447,25 @@ SHA256: 4b1074978cf7ed944055f25fa599f1641ec6eb3afcb9f4570c24bf5620e838b7
 SHA512: 55a7874460c031e351aaab242786a66e4bb01181c8f1bd44c155ec63a57802141629501e35d5cc25a95c0cc00f78069ffd5f513285065fcd7c2027d1020dbcae
 Description: fast content-addressable filesystem
 Name: Git
+
+Package: iOSGods.com.8BallPoolios
+Architecture: iphoneos-arm
+Version: 5.6.2
+Section: Hacks
+Maintainer: iOSGods.com
+Installed-Size: 10112
+Depends: mobilesubstrate
+Filename: ./debs/iOSGods.com.8BallPoolios_5.6.2_iphoneos-arm.deb
+Size: 2419252
+MD5sum: 8bf71ee2cfb0f687e609109b6c56cbda
+SHA1: 752bc194facf762df1ba162f5a2e64d3448640ed
+SHA256: d53310ed851b47395573bd5e7b5e0554e5e319f225a7cc849dadeaf00327e7df
+SHA512: 4ef7548449086f30ba7367eb5192e6b7f0d5a60c9685cfae9fa62299352ed796a2b4e1e69679429f34330fd2e118314c3140c2ac775e23195f7f5830b4679a5b
+Description: 8 Ball Pool iGMM Cheats by Laxus for iOSGods.com!
+Name: 8 Ball Pool Cheats
+Author: Laxus
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
 Package: ipalibrary.info.freefire
 Architecture: iphoneos-arm
