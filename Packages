@@ -336,6 +336,25 @@ Author: 000
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
+Package: com.dl.ffigg568
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: DLGamingVN
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.ffigg568_1.0_iphoneos-arm.deb
+Size: 34120
+MD5sum: 3803d0bd67e5f8809e8d9af3d1705622
+SHA1: 3c8176244ed766e84e44ec0e1bb0f26026906fc4
+SHA256: 2ab3a700a82e3e681f2150fc087e51483c8140d9672a4333e28258ccf13b65e8
+SHA512: ea5c20bac51f6be4920fac3e152ea7994111c6ee6c2fe9537508792b5e7a5701e75ac88adc38ff4e7629fdabc41b05fd83656fbbfeab167bf08933b58d288512
+Description: Mod Menu By DLGamingVN
+Name: Hack Garena Free Fire Menu 3 Ngón - By DLGamingVN
+Author: DL
+Depiction: https://dlgamingvn.blogspot.com/
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
 Package: com.dl.ffiosDL
 Architecture: iphoneos-arm
 Version: 1.0
