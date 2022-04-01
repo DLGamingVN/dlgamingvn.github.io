@@ -1,3 +1,22 @@
+Package: com.dl.ff189
+Architecture: iphoneos-arm
+Version: 1.80.X
+Section: Hacks
+Maintainer: DL
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/Hack Free Fire 1.80.X ( Menu DL ).deb
+Size: 92850
+MD5sum: 0b4cca9a817d81ac4de5841e32f3c28b
+SHA1: 3371f1d57722d893c0eb147805c8ae99e05bdaf7
+SHA256: 4d77140e9252b8b358a97a1b1e7f0684642ca503b1b978623d1c926a324b8347
+SHA512: 194db25cd02582004cc43ed3e6ce5988feb12350acd3944b7b9245734b4311b0f308239d4d3c3b06a22f30f93150ea0f99bb85c665b757d46baa1c37bc256eba
+Description: Mod Menu by DL!
+Name: Hack Free Fire 1.80 - Menu DL
+Author: DL
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
 Package: clang-10
 Architecture: iphoneos-arm
 Version: 10.0.0~svn-20200108+247e5b37d63-3
@@ -1227,45 +1246,6 @@ Description: Bỏ qua thanh toán trong các ứng dụng ở appstore
 Name: AK iAP
 Author: TheArmKing
 Icon: file:///Library/PreferenceBundles/akiaprefs.bundle/icon@2x.png
-Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
-
-Package: com.thearmking.freefire
-Architecture: iphoneos-arm
-Version: 1.69.1
-Section: Hacks
-Maintainer: TheArmKing
-Installed-Size: 616
-Depends: mobilesubstrate
-Filename: ./debs/com.thearmking.freefire_1.69.1_iphoneos-arm.deb
-Size: 278368
-MD5sum: 1b4a8b16dd8e27226dd2767ffb457901
-SHA1: 5c4e02b18e718602746be026a9543cc779b95230
-SHA256: 614c6c4a8ac94bcf20ab481d6336d0e469d2d2f04feb97610056a12aca48899c
-SHA512: 0669b5bad4a07114b99316222f5e181e778f3bd473dda2059f855f6084c408578683e7700e4e19a95028a76f72d16c97f36d8cccd1629cbe2a773a5655fe2509
-Homepage: https://platinmods.com
-Description: [PMT] Garena Free Fire - Illuminate 1.69.1 - MOD by TheArmKing @Platinmods.com
-Name: [PMT] Hack Garena Free Fire 1.69.1
-Author: DLGamingVN
-Icon: file:///Applications/Cydia.app/Sections/dlhack.png
-Depiction: https://dlgamingvn.blogspot.com/2022/01/hack-garena-free-fire-169x-ob32-menu.html?m=1
-
-Package: com.thearmking.freefiremax
-Architecture: iphoneos-arm
-Version: 2.69.1
-Section: Hacks
-Maintainer: TheArmKing
-Installed-Size: 616
-Depends: mobilesubstrate
-Filename: ./debs/com.thearmking.freefiremax_2.69.1_iphoneos-arm.deb
-Size: 274036
-MD5sum: b2be127d8ac31b607b7751f6ef4859ef
-SHA1: c0aba9e012e926651d4388968f980ba3b0860f5f
-SHA256: 3e978b7e5cd994a7a0ec64b2c5e4f5f968fc309cea290bafbeabc7c77f33b486
-SHA512: 1ab8c27b1778bd8e8f75bc66a26d3466a5eb2ec101ef888ffb8293e8612f9f5e658f451a69b711bcc98f3f3dd009ccfa626a9738a65f29dec75856ebfb2331dd
-Description: [PMT] Garena Free Fire MAX 2.69.1 - MOD by TheArmKing @Platinmods.com
-Name: [PMT]Garena Free Fire MAX - JB MOD
-Author: TheArmKing
-Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: com.thearmking.vnaovjb
