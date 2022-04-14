@@ -1248,6 +1248,25 @@ Author: TheArmKing
 Icon: file:///Library/PreferenceBundles/akiaprefs.bundle/icon@2x.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
+Package: com.thearmking.freefire
+Architecture: iphoneos-arm
+Version: 1.80.0
+Section: Hacks
+Maintainer: TheArmKing
+Installed-Size: 616
+Depends: mobilesubstrate
+Filename: ./debs/com.thearmking.freefire_1.80.0_iphoneos-arm.deb
+Size: 278318
+MD5sum: 7e33417c7108f5efa591e7092d3f7a69
+SHA1: a68bd9baea10eeec22a01dc5cba16496e99ecbaf
+SHA256: 43364c4cdcd88ac74429e0624ed7a6373bc7354535d2a8ed530d2b36e6807b53
+SHA512: d112fc5cb08f6fcdf5be6fee192fb11684546248ea2e3c8a0077f3ac152185ebfe938f9ca4055c156152b34eff99af289e5df8247d159463754fe22d8a8e787d
+Description: [PMT] Garena Free Fire: Heroes Arise 1.80.0 - MOD by TheArmKing @Platinmods.com
+Name: [PMT]Garena Free Fire: Heroes Arise - JB MOD
+Author: TheArmKing
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
 Package: com.thearmking.vnaovjb
 Architecture: iphoneos-arm
 Version: 1.44.1.6
@@ -1300,6 +1319,20 @@ SHA512: 2fe5d470e64137a13f8893bb56e079671a3ba5a50dc5edd0e15662c2fbbd803d9409aa76
 Name: iMemScan crack
 Author: 34306
 Icon: http://apt.imemscan.vip/picc/imem.png
+
+Package: com.yiming.iMemScan
+Architecture: iphoneos-arm
+Version: 1.2.5
+Section: iMem Scan
+Filename: ./debs/com.yiming.imemscan_1.2.5_iphoneos-arm.deb
+Size: 1705892
+MD5sum: eacd1fce62c3f046e1ff305850b884c6
+SHA1: d3f34b7483af46afa6bd9dca317c84f75f8e7dc7
+SHA256: b046b6720a06fbdc91c29e04bfe6b3232f3730b20ef4206ea7ce6df8d9c53f3b
+SHA512: dbf711b2b727007386a4d4c86e7a04c88f076ef36d217b7785b7f55ad78dcdb4ce3314a5bdc25bf040eb49992cfd18cdf9106912d36aaf977bbb18c9fcdcce63
+Description: 调试内存工具 / Debug memory tools.
+Tag: role::hacker
+Name: iMemScan
 
 Package: curl
 Architecture: iphoneos-arm
