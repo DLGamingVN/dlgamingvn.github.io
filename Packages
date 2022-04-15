@@ -1255,7 +1255,7 @@ Section: Hacks
 Maintainer: TheArmKing
 Installed-Size: 616
 Depends: mobilesubstrate
-Filename: ./debs/com.thearmking.freefire_1.80.0_iphoneos-arm.deb
+Filename: ./debs/com.thearmking.freefire_1.80.X.deb
 Size: 278318
 MD5sum: 7e33417c7108f5efa591e7092d3f7a69
 SHA1: a68bd9baea10eeec22a01dc5cba16496e99ecbaf
