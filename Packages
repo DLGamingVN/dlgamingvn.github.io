@@ -485,6 +485,23 @@ Description: KineMaster Hack by IPALibrary
 Name: KineMaster 5.0.7 Hack
 Author: IPALibrary
 
+Package: com.dl.libFAHMenu
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: DL
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.libFAHMenu_1.0_iphoneos-arm.deb
+Size: 176120
+MD5sum: c2f1b556288c9934963aa5332d5e36dc
+SHA1: 7ebd5d35037afce8a7533a151d944577864ea48d
+SHA256: 0792e4e686236c6b2b12d29fa4ef4d59532bb32a1da7c1b5824739dfe417dd54
+SHA512: 46e5c6c8ae228bc949b78b08842d2dbc79c8f0d955a02269695f87b1957c5398eb57d1c1b3618a1aae001155c068ae79ebf04e4f90aca406458fc3b0bb12d73b
+Description: Library for FAH Menu!
+Name: libFAHMenu
+Author: fahlnbg
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
 Package: com.dl.lockdown
 Architecture: iphoneos-arm
 Version: 1.0.6
