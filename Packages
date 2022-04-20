@@ -775,26 +775,6 @@ Name: Translation Việt Hoá
 Author: Sky - Pain <2398453359@qq.com>
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
-Package: com.dl.unity60FPS
-Architecture: iphoneos-arm
-Version: 4.5.6
-Priority: optional
-Section: Tweaks
-Maintainer: DL
-Installed-Size: 365
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.dl.unity60FPS_4.5.6_iphoneos-arm.deb
-Size: 99664
-MD5sum: 06c14b8725ef9aa2208895b32b44f405
-SHA1: 442b77c6c657f36eb5908a8608ac4ea3b6315776
-SHA256: c0599f849aa9b1dcec0c0c259f242f434b7de6b201b2a1557a9127273bfd6644
-SHA512: 08f6029c29837c56de3d1a3bb39f4903e80e97754c135b39a63b2319ef6caf3782a1ee2825f7ef9a58e709e365da073edbabf9f53c2b11eccd9e1c6225320737
-Description: Mở khoá 60Fps cho các ứng dụng trò chơi của bạn
-Tag: purpose::extension
-Name: Unity60FPS Việt Hóa
-Author: Brend0n <brendonjkding@126.com>
-dev: brend0n
-
 Package: com.dl.voicechangerx
 Architecture: iphoneos-arm
 Version: 2.2-94
@@ -1404,25 +1384,6 @@ Name: CrackerXI+
 Website: https://ipastore.me
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
-Package: dlgamingvn.blogspot.com
-Architecture: iphoneos-arm
-Version: 1.69
-Section: Hacks
-Maintainer: DLGamingVN
-Installed-Size: 528
-Depends: mobilesubstrate
-Filename: ./debs/dlgamingvn.blogspot.com_1.69_iphoneos-arm.deb
-Size: 180120
-MD5sum: 80f0463d1d77953d31a12bf6d386546a
-SHA1: 3a4e66d6e89c84a752b831aa61c7ec77b7033ead
-SHA256: 8ace35d784fa878f81401cc23c27fd8908efe2ff082598c9bfd8e577aac9d683
-SHA512: 8603e46d1f502c0c3b8f54959b29fb7c9c732bfeb1f9f0a855959fb0efda0036405bcb3f97d340349785d4bf25b54b9d600b9b63e70246d7f4495ccfc645eb07
-Description: Menu by DLGamingVN!
-Name: Hack Free Fire 1.69 V1 - DLGamingVN
-Author: DLGamingVN
-Icon: file:///Applications/Cydia.app/Sections/dlhack.png
-Depiction: https://dlgamingvn.blogspot.com/2022/01/hack-garena-free-fire-169x-ob32-ios.html?m=1
-
 Package: dlgamingvn.pubg.com
 Architecture: iphoneos-arm
 Version: 0.18.0
@@ -1441,6 +1402,25 @@ Name: HACK PUBG MOBILE VNG 0.18.0 - DLGamingVN
 Author: DLGamingVN
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
+Package: dlgamingvn.blogspot.com
+Architecture: iphoneos-arm
+Version: 1.69
+Section: Hacks
+Maintainer: DLGamingVN
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debs/dlgamingvn.sfg.com_1.69_iphoneos-arm.deb
+Size: 180120
+MD5sum: 80f0463d1d77953d31a12bf6d386546a
+SHA1: 3a4e66d6e89c84a752b831aa61c7ec77b7033ead
+SHA256: 8ace35d784fa878f81401cc23c27fd8908efe2ff082598c9bfd8e577aac9d683
+SHA512: 8603e46d1f502c0c3b8f54959b29fb7c9c732bfeb1f9f0a855959fb0efda0036405bcb3f97d340349785d4bf25b54b9d600b9b63e70246d7f4495ccfc645eb07
+Description: Menu by DLGamingVN!
+Name: Hack Free Fire 1.69 V1 - DLGamingVN
+Author: DLGamingVN
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Depiction: https://dlgamingvn.blogspot.com/2022/01/hack-garena-free-fire-169x-ob32-ios.html?m=1
 
 Package: expat
 Architecture: iphoneos-arm
