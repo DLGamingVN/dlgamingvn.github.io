@@ -337,25 +337,6 @@ Author: DL
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
-Package: com.dl.ffHack0
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Hacks
-Maintainer: DLGamingVN
-Installed-Size: 116
-Depends: mobilesubstrate
-Filename: ./debs/com.dl.ffHack0_1.0_iphoneos-arm.deb
-Size: 26978
-MD5sum: ff81cfff717b72dc8a2d21076dc3ab82
-SHA1: 89087d540f7b321a3f4a1ad6d87061b9d5ec7421
-SHA256: 2e4df9ff1e47bb01146808b5d4a44260a986429841d6bf3e6e2dc8c1cd58f118
-SHA512: 60ec6303fefee82519260d7c610b00bd812539e22c537b2bd25957ee75d15d5f4637638ea4112e128ed7ffb45c70bcc99c1609b682881d206105bec72b930545
-Description: Hack Antena và Leo Tường Free Fire - Mod By DL
-Name: Hack Free Fire Antena - Climb Wall By DLGamingVN
-Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
-Icon: file:///Applications/Cydia.app/Sections/dlhack.png
-Author: DL
-
 Package: com.dl.ffchams
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1423,25 +1404,6 @@ Author: DLGamingVN
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
-Package: dlgamingvn.blogspot.com
-Architecture: iphoneos-arm
-Version: 1.69
-Section: Hacks
-Maintainer: DLGamingVN
-Installed-Size: 528
-Depends: mobilesubstrate
-Filename: ./debs/dlgamingvn.sfg.com_1.69_iphoneos-arm.deb
-Size: 180120
-MD5sum: 80f0463d1d77953d31a12bf6d386546a
-SHA1: 3a4e66d6e89c84a752b831aa61c7ec77b7033ead
-SHA256: 8ace35d784fa878f81401cc23c27fd8908efe2ff082598c9bfd8e577aac9d683
-SHA512: 8603e46d1f502c0c3b8f54959b29fb7c9c732bfeb1f9f0a855959fb0efda0036405bcb3f97d340349785d4bf25b54b9d600b9b63e70246d7f4495ccfc645eb07
-Description: Menu by DLGamingVN!
-Name: Hack Free Fire 1.69 V1 - DLGamingVN
-Author: DLGamingVN
-Icon: file:///Applications/Cydia.app/Sections/dlhack.png
-Depiction: https://dlgamingvn.blogspot.com/2022/01/hack-garena-free-fire-169x-ob32-ios.html?m=1
-
 Package: expat
 Architecture: iphoneos-arm
 Version: 2.2.5-1
@@ -1496,25 +1458,6 @@ Name: 8 Ball Pool Cheats
 Author: Laxus
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
-
-Package: ipalibrary.info.freefire
-Architecture: iphoneos-arm
-Version: 1.69.1
-Section: Hacks
-Maintainer: IPALibrary
-Installed-Size: 1976
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/ipalibrary.info.freefire_1.69.1_iphoneos-arm.deb
-Size: 1231360
-MD5sum: 87474ceddf3ce0cf58dc6d404b790324
-SHA1: 88b94674ab7792343c9ac158e544a452c694791c
-SHA256: 5561ed9097df4b209055a7b55cc0b6ebba5227e8bda5208bc41107e51f013aa5
-SHA512: 305c88cc8bbac2c134701d40dc1e27b097dea1170ecec1aeea26a1b6f6dd5d0a846e843f9ae97d591b8940d04d297ba38f4b3af041b3ef5a4fe90b6a232089c1
-Description: An awesome hack!
-Name: Hack Free Fire 1.69.1 Ghost Hack + Leo Tường
-Author: IPALibrary
-Icon: file:///Applications/Cydia.app/Sections/dlhack.png
-Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 
 Package: jp.dl.reprovision
 Architecture: iphoneos-arm
