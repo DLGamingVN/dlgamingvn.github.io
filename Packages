@@ -318,6 +318,25 @@ Author: DL
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 
+Package: com.dl.ff1989
+Architecture: iphoneos-arm
+Version: 1.80
+Section: Hacks
+Maintainer: DL
+Installed-Size: 808
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.ff1989_1.80_iphoneos-arm.deb
+Size: 365452
+MD5sum: 32595efde4dddf14c0bec2aeaf5a5598
+SHA1: 97781d193217f113ddd00ea16646c040fd5790f6
+SHA256: bfa4ec0a69e7c1e1f4e0d067c760a0406eafa8f6213624432d42863609a9786f
+SHA512: 333ad9920b01151d52a89a58d1ce2c8ddfa8010744e1928354f782cc4fccf83ab9773404f7d45b2dc799b14fd09d96578e4d4e70c43b67a7d643cd7995a274d3
+Description: Menu for DLGamingVN!
+Name: Menu Hack Free Fire
+Author: DL
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+
 Package: com.dl.ffHack0
 Architecture: iphoneos-arm
 Version: 1.0
@@ -536,6 +555,25 @@ Icon: file:///Applications/Cydia.app/Sections/dlhack.png
 Name: Hack Cam Xa Liên Quân All Version
 Author: DLGamingVN
 
+Package: com.dl.lqm1451
+Architecture: iphoneos-arm
+Version: 1.45.1
+Section: Hacks
+Maintainer: DL
+Installed-Size: 768
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.lqm1451_1.45.1_iphoneos-arm.deb
+Size: 344412
+MD5sum: 8c4cfec45684310915ecc1323757a0a2
+SHA1: 80f0271958979d85cae03e9c03123e451b2e60f7
+SHA256: 7be8a7aa89e379b9d423194ce1b87847d2b0b2d716c152d0b07d1713bbf17c93
+SHA512: c4e1399fe24562498c04a16f0e3451959d3bc4e7d5c7701b5d5cb2644ff58645c197dba36fed606a3eb76f58bd79d2635dfb49c8818a0d09e98162f228be8fba
+Description: Menu for lqm! Dùng 3 Ngón Để Mở Menu
+Name: Menu Hack LQM 1.45.1 - DL
+Author: DL
+Icon: file:///Applications/Cydia.app/Sections/dlhack.png
+Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
+
 Package: com.dl.milkyway4
 Architecture: iphoneos-arm
 Version: 1.1~Beta
@@ -552,24 +590,6 @@ SHA512: 544633019cb945264d90a881a5f9fa68fc05fe99a3e7d7c3ab4145f25189019d145d06a8
 Description: Tinh chỉnh nâng cao cho đa nhiệm,Support Ios 14.0-14.5
 Name: MilkyWay4
 Author: akusio <akusio-report@neko2.net>
-
-Package: com.dl.modifyapps
-Architecture: iphoneos-arm
-Version: 3.1
-Section: Tweaks
-Maintainer: DL
-Installed-Size: 10524
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
-Filename: ./debs/com.dl.modifyapps_3.1_iphoneos-arm.deb
-Size: 2694946
-MD5sum: 36833635a3a5eaed3907fcb01a77059f
-SHA1: 43c9fdfa454d35cb30c85ce481f8049e76069615
-SHA256: 6b80133db97aa2b67bdd6f24a8cba6195bc1efb927f1a596c3d4e616841831d7
-SHA512: 8fd4d314223512e9dbcf1cfad2e13accf56a12376d1d7bb7a7f3dfc1c1a8c9cf2c66b2fdbba7217c6d89d82217fb529cd73a647635cef50d97392d202317b941
-Description: Hack ứng dụng với tinh chỉnh tuyệt vời!
-Name: Apps Modify
-Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
-Author: Halem, Huy Hue (trans)
 
 Package: com.dl.netflixpro
 Architecture: iphoneos-arm
