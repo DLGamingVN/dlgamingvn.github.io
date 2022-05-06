@@ -1368,23 +1368,6 @@ Name: CrackerXI+
 Depiction: https://dlgamingvn.blogspot.com/p/repo-cydia-dlgamingvn.html
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
-Package: cydia.com.ipc.crackerxi
-Architecture: iphoneos-arm
-Version: 1.1.16
-Section: Tweaks
-Maintainer: c0pyn1nja
-Depends: firmware (>= 11.0)
-Filename: ./debs/cydia.com.ipc.crackerxi_1.1.16_iphoneos-arm.deb
-Size: 9960920
-MD5sum: 35125eb67d26e1d081981eeae88fa66d
-SHA1: 3d5230dd12e975a85b50eee7a581b46ce8e96e86
-SHA256: a89489f483cfa3a8b8feb4b3f2b56ec4ce4118ddf7140790adc57fd301cb095c
-SHA512: 4cec7a7e11d697704c3c55b31702af52326c6ee9ff700506c52cd9209d83e7fb857de9940151e55987383a5ceceff7859bfb156722be8e5a969be168b7f8a226
-Description: Decrypts iOS Apps
-Name: CrackerXI+
-Website: https://ipastore.me
-Icon: file:///Applications/crackerxi.app/AppIcon.png
-
 Package: dlgamingvn.pubg.com
 Architecture: iphoneos-arm
 Version: 0.18.0
@@ -1780,6 +1763,24 @@ SHA256: 1e74d832608dfd7c104b4dd1024da39697049f569e0bf8854d508bdcbd477f50
 SHA512: 20f390b67a6ed97172cfebf97aa206f9ff278b70bb234233978b21d21b0205ab14667a75774d65e065f8b7da285dd1f260c329221fffe628f48edc9185c4d84e
 Description: dependency-based build environments
 Name: Make
+
+Package: me.dl.dleasy
+Architecture: iphoneos-arm
+Version: 2.12.4
+Section: Tweaks
+Maintainer: DL
+Installed-Size: 3540
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs/me.dl.dleasy_2.12.4_iphoneos-arm.deb
+Size: 1367110
+MD5sum: 95213b50ee32bb0dc70e8722ff196c4f
+SHA1: 9802e3a3b10ca2dad6e5f8ae18876e3f41e8957d
+SHA256: e7a3b7bc0a7f2243be5dc3b4c4044d98a03b7c19da9cf39754570e964d04d005
+SHA512: 9214bbb612bbc964cc1a63a4d0d2e8e131e9c92ccd712ea876b17f2af4f6b73c9f92bf3129a9c51870e413f54502775d43a82943a4db073dc7381395c1e2aca4
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 
 Package: mterminal
 Architecture: iphoneos-arm
